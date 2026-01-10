@@ -1,0 +1,104 @@
+_comment: 'DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PANEL'
+meta:
+  version: PLCN_v3
+  update_url: 'https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/chatbots/discord/sinusbot/egg-sinusbot.yaml'
+exported_at: '2026-01-05T15:53:29+00:00'
+name: Sinusbot
+author: support@pterodactyl.io
+uuid: 901e5e18-bf96-4839-98dd-a9fc2dd1d8d9
+description: 'Musicbot for Discord and Teamspeak.'
+image: 'data:image/png;base64,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'
+tags: {  }
+features: {  }
+docker_images:
+  Sinusbot: 'ghcr.io/team-wurstwasser/yolks:bot_sinusbot'
+file_denylist: {  }
+startup_commands:
+  Default: './sinusbot --override-password="${OVERRIDE_PASSWORD}"'
+config:
+  files:
+    config.ini:
+      parser: file
+      find:
+        ListenPort: 'ListenPort = {{server.allocations.default.port}}'
+        ListenHost: 'ListenHost = "0.0.0.0"'
+  startup:
+    done: 'Initialization complete'
+  logs: {  }
+  stop: ^C
+scripts:
+  installation:
+    script: |-
+      #!/bin/bash
+      # Sinusbot Installation Script
+      #
+      # Server Files: /mnt/server
+      apt -y update
+      apt -y --no-install-recommends install ca-certificates bzip2 wget tar curl jq
+      apt -q clean all
+
+      #Create needed directories
+      mkdir -p /mnt/server/TeamSpeak3-Client-linux_amd64/plugins
+      mkdir /mnt/server/youtube-dlp
+
+      cd /mnt/server
+
+      #Download Sinusbot
+      wget -qO - https://www.sinusbot.com/dl/sinusbot.current.tar.bz2 | tar xj
+
+
+      #Download Latest TeamSpeak Client
+      #TS_VERSION=$(curl https://teamspeak.com/versions/client.json | jq -r '.linux.x86_64.version')
+      #TS_DL_LINK=$(curl https://teamspeak.com/versions/client.json | jq -r '.linux.x86_64.mirrors."teamspeak.com"')
+
+      # Sinusbot is not yet updated...
+      TS_VERSION=3.5.6
+      TS_DL_LINK=https://files.teamspeak-services.com/releases/client/3.5.6/TeamSpeak3-Client-linux_amd64-3.5.6.run
+
+      echo -e "downloading teamspeak version ${TS_VERSION}"
+      echo -e "running 'wget ${TS_DL_LINK}'"
+
+      wget ${TS_DL_LINK}
+
+      # Install TeamSpeak Client
+      chmod 0755 TeamSpeak3-Client-linux_amd64*.run
+      ./TeamSpeak3-Client-linux_amd64*.run --tar xfv -C TeamSpeak3-Client-linux_amd64
+
+      ## Cleaning up 
+
+      rm TeamSpeak3-Client-linux_amd64*.run
+      # Remove glx-integration lib
+      rm TeamSpeak3-Client-linux_amd64/xcbglintegrations/libqxcb-glx-integration.so
+
+      #Install Sinusbot
+      chmod +x sinusbot
+      cp config.ini.dist config.ini
+      sed -i "s|^TS3Path.*|TS3Path = \"/home/container/TeamSpeak3-Client-linux_amd64/ts3client_linux_amd64\"|g" config.ini
+      echo 'YoutubeDLPath = "/home/container/youtube-dlp/youtube-dlp"' >> config.ini
+
+      #Install Sinusbot plugin
+      cp plugin/libsoundbot_plugin.so TeamSpeak3-Client-linux_amd64/plugins
+
+      #Download youtube-dlp
+      cd /mnt/server/youtube-dlp
+      wget https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -O youtube-dlp
+      chmod a+rx youtube-dlp
+
+      echo "-----------------------------------------"
+      echo "Installation completed..."
+      echo "-----------------------------------------"
+    container: 'ghcr.io/team-wurstwasser/installers:debian'
+    entrypoint: bash
+variables:
+  -
+    sort: 1
+    name: Password
+    description: 'Password for admin account.'
+    env_variable: OVERRIDE_PASSWORD
+    default_value: ''
+    user_viewable: true
+    user_editable: true
+    rules:
+      - required
+      - string
+      - 'max:20'

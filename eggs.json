@@ -1,0 +1,1824 @@
+{
+	"nests": [
+		{
+			"nest_type": "Standalone",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "SuperTuxKart"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/SuperTuxKart/egg-super-tux-kart.json"
+				},
+				{
+					"egg": {
+						"name": "BetterCrewlink Server"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/among_us/bettercrewlink_server/egg-better-crewlink-server.json"
+				},
+				{
+					"egg": {
+						"name": "Crewlink server"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/among_us/crewlink_server/egg-crewlink-server.json"
+				},
+				{
+					"egg": {
+						"name": "Among Us - Impostor Server"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/among_us/impostor_server/egg-among-us--impostor-server.json"
+				},
+				{
+					"egg": {
+						"name": "Archean"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/archean/egg-archean.json"
+				},
+				{
+					"egg": {
+						"name": "BeamMP Servers"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/beamng/beammp/egg-beam-m-p-servers.json"
+				},
+				{
+					"egg": {
+						"name": "KissMP Server"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/beamng/kissmp/egg-kiss-m-p-server.json"
+				},
+				{
+					"egg": {
+						"name": "ClassiCube(MGC)"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/classicube/mcgalaxy/egg-classi-cube--m-g-c.json"
+				},
+				{
+					"egg": {
+						"name": "Clone Hero"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/clone_hero/egg-clone-hero.json"
+				},
+				{
+					"egg": {
+						"name": "CS2D"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/cs2d/egg-c-s2-d.json"
+				},
+				{
+					"egg": {
+						"name": "AssaultCube"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/cubeengine/assaultcube/egg-assault-cube.json"
+				},
+				{
+					"egg": {
+						"name": "Cube 2: Sauerbraten"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/cubeengine/cube2/egg-cube2--sauerbraten.json"
+				},
+				{
+					"egg": {
+						"name": "DDRaceNetwork"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/ddracenetwork/egg-d-d-race-network.json"
+				},
+				{
+					"egg": {
+						"name": "Zandronum"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/doom/zandronum/egg-zandronum.json"
+				},
+				{
+					"egg": {
+						"name": "Stay In Tarkov"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/eft/egg-stay-in-tarkov.json"
+				},
+				{
+					"egg": {
+						"name": "Clusterio"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/clusterio/egg-clusterio.json"
+				},
+				{
+					"egg": {
+						"name": "Factorio ARM64"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/factorio/egg-factorio-a-r-m64.json"
+				},
+				{
+					"egg": {
+						"name": "Factorio"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/factorio/egg-factorio.json"
+				},
+				{
+					"egg": {
+						"name": "Factorio-ModUpdate"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/factorio-modupdate/egg-factorio--mod-update.json"
+				},
+				{
+					"egg": {
+						"name": "Foundry VTT"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/foundry_vtt/egg-foundry-v-t-t.json"
+				},
+				{
+					"egg": {
+						"name": "Tachyon"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/ftl_tachyon/egg-tachyon.json"
+				},
+				{
+					"egg": {
+						"name": "alt:V"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/altv/egg-alt--v.json"
+				},
+				{
+					"egg": {
+						"name": "FiveM"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/fivem/egg-five-m.json"
+				},
+				{
+					"egg": {
+						"name": "Grand Theft Auto Connected"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/gtac/egg-grand-theft-auto-connected.json"
+				},
+				{
+					"egg": {
+						"name": "Multi Theft Auto"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/mtasa/egg-multi-theft-auto.json"
+				},
+				{
+					"egg": {
+						"name": "OpenMP"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/openmp/egg-open-m-p.json"
+				},
+				{
+					"egg": {
+						"name": "RageCOOP"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/ragecoop/egg-rage-c-o-o-p.json"
+				},
+				{
+					"egg": {
+						"name": "Rage.MP"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/ragemp/egg-rage--m-p.json"
+				},
+				{
+					"egg": {
+						"name": "SA-MP"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/samp/egg-s-a--m-p.json"
+				},
+				{
+					"egg": {
+						"name": "Hogwarp"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/hogwarp/egg-hogwarp.json"
+				},
+				{
+					"egg": {
+						"name": "KSP DMP"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/ksp/egg-k-s-p-d-m-p.json"
+				},
+				{
+					"egg": {
+						"name": "LeagueSandbox"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/leaguesandbox/egg-league-sandbox.json"
+				},
+				{
+					"egg": {
+						"name": "LAC-Online Public Server"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/losangelescrimes/egg-l-a-c--online-public-server.json"
+				},
+				{
+					"egg": {
+						"name": "Mindustry"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/mindustry/egg-mindustry.json"
+				},
+				{
+					"egg": {
+						"name": "Minetest"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/minetest/egg-minetest.json"
+				},
+				{
+					"egg": {
+						"name": "mohaa"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/mohaa/egg-mohaa.json"
+				},
+				{
+					"egg": {
+						"name": "Nazi Zombies: Portable"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/nazi_zombies_portable/egg-nazi-zombies-portable.json"
+				},
+				{
+					"egg": {
+						"name": "Neverwinter Nights: Enhanced Edition"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/neverwinter_nights_ee/egg-neverwinter-nights--enhanced-edition.json"
+				},
+				{
+					"egg": {
+						"name": "OpenArena"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openarena/egg-open-arena.json"
+				},
+				{
+					"egg": {
+						"name": "OpenRA - Dune2000"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openra/openra_dune2000/egg-open-r-a--dune2000.json"
+				},
+				{
+					"egg": {
+						"name": "OpenRA"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openra/openra_red_alert/egg-open-r-a.json"
+				},
+				{
+					"egg": {
+						"name": "OpenRA - Tiberian Dawn"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openra/openra_tiberian_dawn/egg-open-r-a--tiberian-dawn.json"
+				},
+				{
+					"egg": {
+						"name": "OpenRCT2"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openrct2/egg-open-r-c-t2.json"
+				},
+				{
+					"egg": {
+						"name": "OpenTTD"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openttd/egg-open-t-t-d-server.json"
+				},
+				{
+					"egg": {
+						"name": "Path Of Titans"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/path_of_titans/egg-path-of-titans.json"
+				},
+				{
+					"egg": {
+						"name": "RedM"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/rdr/redm/egg-red-m.json"
+				},
+				{
+					"egg": {
+						"name": "Rimworld: Open World"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/rimworld/open_world/egg-rimworld--open-world.json"
+				},
+				{
+					"egg": {
+						"name": "Rimworld Together"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/rimworld/together/egg-rimworld-together.json"
+				},
+				{
+					"egg": {
+						"name": "Spacestation 14"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/spacestation_14/egg-spacestation14.json"
+				},
+				{
+					"egg": {
+						"name": "starmade"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/starmade/egg-starmade.json"
+				},
+				{
+					"egg": {
+						"name": "Teeworlds"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/teeworlds/egg-teeworlds.json"
+				},
+				{
+					"egg": {
+						"name": "tModloader"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/tmodloader/egg-t-modloader.json"
+				},
+				{
+					"egg": {
+						"name": "tshock legacy"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/tshock/egg-tshock-legacy.json"
+				},
+				{
+					"egg": {
+						"name": "tshock"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/tshock/egg-tshock.json"
+				},
+				{
+					"egg": {
+						"name": "Terraria Vanilla"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/vanilla/egg-terraria-vanilla.json"
+				},
+				{
+					"egg": {
+						"name": "The Battle for Wesnoth"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/thebattleforwesnoth/egg-the-battle-for-wesnoth.json"
+				},
+				{
+					"egg": {
+						"name": "Urban Terror"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/urbanterror/egg-urban-terror.json"
+				},
+				{
+					"egg": {
+						"name": "Veloren"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/veloren/egg-veloren.json"
+				},
+				{
+					"egg": {
+						"name": "Venice Unleashed"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/venice_unleashed/egg-venice-unleashed.json"
+				},
+				{
+					"egg": {
+						"name": "Vintage Story"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/vintage_story/egg-vintage-story.json"
+				},
+				{
+					"egg": {
+						"name": "Wine Generic"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/wine/generic/egg-wine-generic.json"
+				},
+				{
+					"egg": {
+						"name": "ET Legacy"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json"
+				},
+				{
+					"egg": {
+						"name": "Xonotic"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/xonotic/egg-xonotic.json"
+				}
+			]
+		},
+		{
+			"nest_type": "SteamCMD",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "7 Days To Die"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/7_days_to_die/egg-7-days-to-die.json"
+				},
+				{
+					"egg": {
+						"name": "Abiotic Factor"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/abiotic_factor/egg-abiotic-factor.json"
+				},
+				{
+					"egg": {
+						"name": "ARK: Survival Ascended"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/ark_survival_ascended/egg-a-r-k--survival-ascended.json"
+				},
+				{
+					"egg": {
+						"name": "Ark: Survival Evolved"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/ark_survival_evolved/egg-ark--survival-evolved.json"
+				},
+				{
+					"egg": {
+						"name": "Arma 3"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/arma/arma3/egg-arma3.json"
+				},
+				{
+					"egg": {
+						"name": "Arma Reforger"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/arma/arma_reforger/egg-arma-reforger.json"
+				},
+				{
+					"egg": {
+						"name": "Assetto Corsa (Freeroam + AI)"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/assetto_corsa/egg-assetto-corsa--freeroam--a-i.json"
+				},
+				{
+					"egg": {
+						"name": "Assetto Corsa"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/assetto_corsa/egg-assetto-corsa.json"
+				},
+				{
+					"egg": {
+						"name": "Astro Colony"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/astro_colony/egg-astro-colony.json"
+				},
+				{
+					"egg": {
+						"name": "Astroneer Dedicated Server"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/astroneer/egg-astroneer-dedicated-server.json"
+				},
+				{
+					"egg": {
+						"name": "Avorion"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/avorion/egg-avorion.json"
+				},
+				{
+					"egg": {
+						"name": "Barotrauma"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/barotrauma/egg-barotrauma.json"
+				},
+				{
+					"egg": {
+						"name": "BATTALION: Legacy"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/battalion_legacy/egg-b-a-t-t-a-l-i-o-n--legacy.json"
+				},
+				{
+					"egg": {
+						"name": "Black Mesa"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/black_mesa/egg-black-mesa.json"
+				},
+				{
+					"egg": {
+						"name": "Brickadia"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/brickadia/egg-brickadia.json"
+				},
+				{
+					"egg": {
+						"name": "Citadel: Forged with Fire"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/citadel/egg-citadel--forged-with-fire.json"
+				},
+				{
+					"egg": {
+						"name": "Colony Survival"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/colony_survival/egg-colony-survival.json"
+				},
+				{
+					"egg": {
+						"name": "Conan Exiles"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/conan_exiles/egg-conan-exiles.json"
+				},
+				{
+					"egg": {
+						"name": "Core Keeper"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/core_keeper/egg-core-keeper.json"
+				},
+				{
+					"egg": {
+						"name": "Counter-Strike 2"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/counter_strike/counter_strike_2/egg-counter--strike2.json"
+				},
+				{
+					"egg": {
+						"name": "Counter-Strike: Source"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/counter_strike/counter_strike_source/egg-counter--strike--source.json"
+				},
+				{
+					"egg": {
+						"name": "Craftopia"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/craftopia/egg-craftopia.json"
+				},
+				{
+					"egg": {
+						"name": "CryoFall"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/cryofall/egg-cryo-fall.json"
+				},
+				{
+					"egg": {
+						"name": "DayZ"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/dayz/egg-day-z.json"
+				},
+				{
+					"egg": {
+						"name": "DDNet"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/ddnet/egg-d-d-net.json"
+				},
+				{
+					"egg": {
+						"name": "Dead Matter"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/dead_matter/egg-dead-matter.json"
+				},
+				{
+					"egg": {
+						"name": "Don't Starve Together"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/dont_starve/egg-don-t-starve-together.json"
+				},
+				{
+					"egg": {
+						"name": "Eco"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/eco/egg-eco.json"
+				},
+				{
+					"egg": {
+						"name": "Empyrion: Galactic Survival"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/empyrion/egg-empyrion--galactic-survival.json"
+				},
+				{
+					"egg": {
+						"name": "Enshrouded"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/enshrouded/egg-enshrouded.json"
+				},
+				{
+					"egg": {
+						"name": "Fof"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/fof/egg-fof.json"
+				},
+				{
+					"egg": {
+						"name": "Foundry"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/foundry/egg-foundry.json"
+				},
+				{
+					"egg": {
+						"name": "Frozen Flame"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/frozen_flame/egg-frozen-flame.json"
+				},
+				{
+					"egg": {
+						"name": "Garry's Mod - Reworked"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/gmod/egg-garry-s-mod--reworked.json"
+				},
+				{
+					"egg": {
+						"name": "Ground Branch"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/ground_branch/egg-ground-branch.json"
+				},
+				{
+					"egg": {
+						"name": "Custom ReHLDS Engine Game"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/hlds_server/rehlds/egg-custom-re-h-l-d-s-engine-game.json"
+				},
+				{
+					"egg": {
+						"name": "Custom HLDS Engine Game"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/hlds_server/vanilla/egg-custom-h-l-d-s-engine-game.json"
+				},
+				{
+					"egg": {
+						"name": "Holdfast NaW"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/holdfast/egg-holdfast-na-w.json"
+				},
+				{
+					"egg": {
+						"name": "HumanitZ"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/humanitz/egg-humanit-z.json"
+				},
+				{
+					"egg": {
+						"name": "Hurtworld"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/hurtworld/egg-hurtworld.json"
+				},
+				{
+					"egg": {
+						"name": "Icarus-Dedicated"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/icarus/egg-icarus--dedicated.json"
+				},
+				{
+					"egg": {
+						"name": "Insurgency: Sandstorm"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/insurgency_sandstorm/egg-insurgency--sandstorm.json"
+				},
+				{
+					"egg": {
+						"name": "Iosoccer server"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/iosoccer/egg-iosoccer-server.json"
+				},
+				{
+					"egg": {
+						"name": "Killing Floor 2"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/killing_floor_2/egg-killing-floor2.json"
+				},
+				{
+					"egg": {
+						"name": "Left 4 Dead"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/left4dead/egg-left4-dead.json"
+				},
+				{
+					"egg": {
+						"name": "Left 4 Dead 2"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/left4dead_2/egg-left4-dead2.json"
+				},
+				{
+					"egg": {
+						"name": "Longvinter"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/longvinter/egg-longvinter.json"
+				},
+				{
+					"egg": {
+						"name": "The Lord of the Rings: Return to Moria"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/lotr_moria/egg-the-lord-of-the-rings-return-to-moria.json"
+				},
+				{
+					"egg": {
+						"name": "Midnight Ghost Hunt"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/midnight_ghost_hunt/egg-midnight-ghost-hunt.json"
+				},
+				{
+					"egg": {
+						"name": "Modiverse"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/modiverse/egg-modiverse.json"
+				},
+				{
+					"egg": {
+						"name": "Mordhau Wine"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/mordhau/egg-mordhau-wine.json"
+				},
+				{
+					"egg": {
+						"name": "Mordhau"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/mordhau/egg-mordhau.json"
+				},
+				{
+					"egg": {
+						"name": "Mount \u0026 Blade II: Bannerlord"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/mount_blade_II_bannerlord/egg-mount--blade-i-i--bannerlord.json"
+				},
+				{
+					"egg": {
+						"name": "Myth of Empires"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/myth_of_empires/egg-myth-of-empires.json"
+				},
+				{
+					"egg": {
+						"name": "Necesse"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/necesse/egg-necesse.json"
+				},
+				{
+					"egg": {
+						"name": "NeosVR"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/neosvr/egg-neos-v-r.json"
+				},
+				{
+					"egg": {
+						"name": "Night Of The Dead"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/night_of_the_dead/egg-night-of-the-dead.json"
+				},
+				{
+					"egg": {
+						"name": "nmrih"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/nmrih/egg-nmrih.json"
+				},
+				{
+					"egg": {
+						"name": "No Love Lost"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/no_love_lost/egg-no-love-lost.json"
+				},
+				{
+					"egg": {
+						"name": "No One Survived"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/no_one_survived/egg-no-one-survived.json"
+				},
+				{
+					"egg": {
+						"name": "Nova-Life: Amboise"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/novalife_amboise/egg-nova--life--amboise.json"
+				},
+				{
+					"egg": {
+						"name": "Onset"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/onset/egg-onset.json"
+				},
+				{
+					"egg": {
+						"name": "Open Fortress"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/open_fortress/egg-open-fortress.json"
+				},
+				{
+					"egg": {
+						"name": "Operation Harsh Doorstop"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/operation_harsh_doorstop/egg-operation-harsh-doorstop.json"
+				},
+				{
+					"egg": {
+						"name": "Palworld Proton"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/palworld/egg-palworld-proton.json"
+				},
+				{
+					"egg": {
+						"name": "Palworld"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/palworld/egg-palworld.json"
+				},
+				{
+					"egg": {
+						"name": "Pavlov VR"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/pavlov_vr/egg-pavlov-v-r.json"
+				},
+				{
+					"egg": {
+						"name": "PixARK"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/pixark/egg-pix-a-r-k.json"
+				},
+				{
+					"egg": {
+						"name": "Portal Knights"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/portal_knights/egg-portal-knights.json"
+				},
+				{
+					"egg": {
+						"name": "Post Scriptum"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/post_scriptum/egg-post-scriptum.json"
+				},
+				{
+					"egg": {
+						"name": "Project Zomboid"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/project_zomboid/egg-project-zomboid.json"
+				},
+				{
+					"egg": {
+						"name": "QANGA"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/qanga/egg-q-a-n-g-a.json"
+				},
+				{
+					"egg": {
+						"name": "Quake Live"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/quake_live/egg-quake-live.json"
+				},
+				{
+					"egg": {
+						"name": "Resonite"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/resonite/egg-resonite.json"
+				},
+				{
+					"egg": {
+						"name": "Rising World Java Legacy"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rising_world/legacy/egg-rising-world-java-legacy.json"
+				},
+				{
+					"egg": {
+						"name": "Rising World Unity"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rising_world/unity/egg-rising-world-unity.json"
+				},
+				{
+					"egg": {
+						"name": "Risk of Rain 2"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/risk_of_rain_2/egg-risk-of-rain2.json"
+				},
+				{
+					"egg": {
+						"name": "Rust Autowipe"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rust/rust_autowipe/egg-rust-autowipe.json"
+				},
+				{
+					"egg": {
+						"name": "Rust Staging"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rust/rust_staging/egg-rust-staging.json"
+				},
+				{
+					"egg": {
+						"name": "Satisfactory"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/satisfactory/egg-satisfactory.json"
+				},
+				{
+					"egg": {
+						"name": "SCP:SL"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/scpsl/dedicated/egg-s-c-p--s-l.json"
+				},
+				{
+					"egg": {
+						"name": "SCP:SL - Exiled"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/scpsl/exiled/egg-s-c-p--s-l--exiled.json"
+				},
+				{
+					"egg": {
+						"name": "Smalland: Survive the Wilds"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/smalland_survive_the_wilds/egg-smalland--survive-the-wilds.json"
+				},
+				{
+					"egg": {
+						"name": "Solace Crafting"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/solace_crafting/egg-solace-crafting.json"
+				},
+				{
+					"egg": {
+						"name": "Soldat"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/soldat/egg-soldat.json"
+				},
+				{
+					"egg": {
+						"name": "Sons Of The Forest"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/sonsoftheforest/egg-sons-of-the-forest.json"
+				},
+				{
+					"egg": {
+						"name": "Soulmask"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/soulmask/egg-soulmask.json"
+				},
+				{
+					"egg": {
+						"name": "SourceCoop"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/sourcecoop/egg-source-coop.json"
+				},
+				{
+					"egg": {
+						"name": "Space Engineers"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/space_engineers/default/egg-space-engineers.json"
+				},
+				{
+					"egg": {
+						"name": "Space Engineers - Torch Server"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/space_engineers/torch/egg-space-engineers--torch-server.json"
+				},
+				{
+					"egg": {
+						"name": "Squad Wine"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/squad/egg-squad-wine.json"
+				},
+				{
+					"egg": {
+						"name": "Squad"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/squad/egg-squad.json"
+				},
+				{
+					"egg": {
+						"name": "Starbound"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/starbound/egg-starbound.json"
+				},
+				{
+					"egg": {
+						"name": "Stationeers (BepInEx)"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/stationeers/stationeers_bepinex/egg-stationeers--bep-in-ex.json"
+				},
+				{
+					"egg": {
+						"name": "Stationeers"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/stationeers/stationeers_vanilla/egg-stationeers.json"
+				},
+				{
+					"egg": {
+						"name": "Stormworks: Build and Rescue"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/stormworks/egg-stormworks--build-and-rescue.json"
+				},
+				{
+					"egg": {
+						"name": "Subnautica"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/subnautica_nitrox_mod/egg-subnautica.json"
+				},
+				{
+					"egg": {
+						"name": "Sven Co-op"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/svencoop/egg-sven-co-op.json"
+				},
+				{
+					"egg": {
+						"name": "Swords 'n Magic and Stuff"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/swords_'n_Magic_and_Stuff/egg-swords-n-magic-and-stuff.json"
+				},
+				{
+					"egg": {
+						"name": "Team Fortress 2 Classic"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/team_fortress_2_classic/egg-team-fortress2-classic.json"
+				},
+				{
+					"egg": {
+						"name": "TerraTech Worlds"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/terratech_worlds/egg-terra-tech-worlds.json"
+				},
+				{
+					"egg": {
+						"name": "The Bus"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/the_bus/egg-the-bus.json"
+				},
+				{
+					"egg": {
+						"name": "The Forest"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/the_forest/egg-the-forest.json"
+				},
+				{
+					"egg": {
+						"name": "The Isle"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/the_isle/evrima/egg-the-isle.json"
+				},
+				{
+					"egg": {
+						"name": "The Front"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/thefront/egg-the-front.json"
+				},
+				{
+					"egg": {
+						"name": "Tower Unite"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/tower_unite/egg-tower-unite.json"
+				},
+				{
+					"egg": {
+						"name": "American Truck Simulator Dedicated Server"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/truck-simulator/american-truck-simulator/egg-american-truck-simulator-dedicated-server.json"
+				},
+				{
+					"egg": {
+						"name": "Euro Truck Simulator 2 Dedicated server"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/truck-simulator/euro-truck-simulator2/egg-euro-truck-simulator2-dedicated-server.json"
+				},
+				{
+					"egg": {
+						"name": "Unturned"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/unturned/egg-unturned.json"
+				},
+				{
+					"egg": {
+						"name": "V Rising BepInEx"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/v_rising/v_rising_bepinex/egg-v-rising-bep-in-ex.json"
+				},
+				{
+					"egg": {
+						"name": "V Rising"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/v_rising/v_rising_vanilla/egg-v-rising.json"
+				},
+				{
+					"egg": {
+						"name": "Valheim  BepINex"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/valheim/valheim_bepinex/egg-valheim-bep-i-nex.json"
+				},
+				{
+					"egg": {
+						"name": "Valheim Plus Mod"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/valheim/valheim_plus/egg-valheim-plus-mod.json"
+				},
+				{
+					"egg": {
+						"name": "Valheim"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/valheim/valheim_vanilla/egg-valheim.json"
+				},
+				{
+					"egg": {
+						"name": "VEIN"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/vein/egg-v-e-i-n.json"
+				},
+				{
+					"egg": {
+						"name": "Wurm Unlimited"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/wurm_unlimited/egg-wurm-unlimited.json"
+				},
+				{
+					"egg": {
+						"name": "Zombie Survival Game Online"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/zombie_survival_game_online/egg-zombie-survival-game-online.json"
+				}
+			]
+		},
+		{
+			"nest_type": "Minecraft",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "Liteloader Bedrock Dedicated Server"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/bedrock/LiteLoader-bedrock/egg-liteloader-bedrock-dedicated-server.yaml"
+				},
+				{
+					"egg": {
+						"name": "PowerNukkitX"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/bedrock/PowerNukkitX/egg-power-nukkit-x.yaml"
+				},
+				{
+					"egg": {
+						"name": "Vanilla Bedrock ARM64"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/bedrock/bedrock/egg-vanilla-bedrock-a-r-m64.yaml"
+				},
+				{
+					"egg": {
+						"name": "Vanilla Bedrock"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/bedrock/bedrock/egg-vanilla-bedrock.yaml"
+				},
+				{
+					"egg": {
+						"name": "GoMint"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/bedrock/gomint/egg-go-mint.yaml"
+				},
+				{
+					"egg": {
+						"name": "Nukkit"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/bedrock/nukkit/egg-nukkit.yaml"
+				},
+				{
+					"egg": {
+						"name": "PocketmineMP"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/bedrock/pocketmine_mp/egg-pocketmine-m-p.yaml"
+				},
+				{
+					"egg": {
+						"name": "Purpur-Geyser-Floodgate"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/crossplay/purpur-geysermc-floodgate/egg-purpur-geyser-floodgate.yaml"
+				},
+				{
+					"egg": {
+						"name": "Cuberite"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/cuberite/egg-cuberite.yaml"
+				},
+				{
+					"egg": {
+						"name": "CurseForge Generic"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/curseforge/egg-curse-forge-generic.yaml"
+				},
+				{
+					"egg": {
+						"name": "Fabric"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/fabric/egg-fabric.yaml"
+				},
+				{
+					"egg": {
+						"name": "Feather"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/feather/egg-feather.yaml"
+				},
+				{
+					"egg": {
+						"name": "Folia"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/folia/egg-folia.yaml"
+				},
+				{
+					"egg": {
+						"name": "Forge Minecraft"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/forge/egg-forge-minecraft.yaml"
+				},
+				{
+					"egg": {
+						"name": "FTB Server"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/ftb/egg-f-t-b-server.yaml"
+				},
+				{
+					"egg": {
+						"name": "Glowstone"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/glowstone/egg-glowstone.yaml"
+				},
+				{
+					"egg": {
+						"name": "Ketting"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/ketting/egg-ketting.yaml"
+				},
+				{
+					"egg": {
+						"name": "Limbo"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/limbo/egg-limbo.yaml"
+				},
+				{
+					"egg": {
+						"name": "Magma"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/magma/egg-magma.yaml"
+				},
+				{
+					"egg": {
+						"name": "Modrinth Generic"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/modrinth/egg-modrinth-generic.yaml"
+				},
+				{
+					"egg": {
+						"name": "MohistMC"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/mohist/egg-mohist.yaml"
+				},
+				{
+					"egg": {
+						"name": "NanoLimbo"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/nanolimbo/egg-nano-limbo.yaml"
+				},
+				{
+					"egg": {
+						"name": "NeoForge"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/neoforge/egg-neo-forge.yaml"
+				},
+				{
+					"egg": {
+						"name": "Vanilla Minecraft"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/vanilla/egg-vanilla-minecraft.yaml"
+				},
+				{
+					"egg": {
+						"name": "Paper"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/paper/egg-paper.yaml"
+				},
+				{
+					"egg": {
+						"name": "Purpur"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/purpur/egg-purpur.yaml"
+				},
+				{
+					"egg": {
+						"name": "Quilt"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/quilt/egg-quilt.yaml"
+				},
+				{
+					"egg": {
+						"name": "Spigot"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/spigot/egg-spigot.yaml"
+				},
+				{
+					"egg": {
+						"name": "Sponge"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/sponge/egg-sponge.yaml"
+				},
+				{
+					"egg": {
+						"name": "Tekkit"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/technic/Tekkit/egg-tekkit.yaml"
+				},
+				{
+					"egg": {
+						"name": "Tekkit 2"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/technic/Tekkit-2/egg-tekkit2.yaml"
+				},
+				{
+					"egg": {
+						"name": "Attack of the B-Team"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/technic/attack-of-the-bteam/egg-attack-of-the-b--team.yaml"
+				},
+				{
+					"egg": {
+						"name": "Blightfall"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/technic/blightfall/egg-blightfall.yaml"
+				},
+				{
+					"egg": {
+						"name": "Hexxit"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/technic/hexxit/egg-hexxit.yaml"
+				},
+				{
+					"egg": {
+						"name": "Tekkit Classic"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/technic/tekkit-classic/egg-tekkit-classic.yaml"
+				},
+				{
+					"egg": {
+						"name": "Tekkit Legends"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/technic/tekkit-legends/egg-tekkit-legends.yaml"
+				},
+				{
+					"egg": {
+						"name": "Tekkit SMP"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/technic/tekkit-smp/egg-tekkit-smp.yaml"
+				},
+				{
+					"egg": {
+						"name": "The 1.12.2 Pack"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/technic/the-1-12-2-pack/egg-the1-12-2-pack.yaml"
+				},
+				{
+					"egg": {
+						"name": "The 1.7.10 Pack"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/java/technic/the-1-7-10-pack/egg-the1-7-10-pack.yaml"
+				},
+				{
+					"egg": {
+						"name": "Waterdog PE"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/proxy/bedrock/waterdog_pe/egg-waterdog-p-e.yaml"
+				},
+				{
+					"egg": {
+						"name": "Travertine"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/proxy/java/travertine/egg-travertine.yaml"
+				},
+				{
+					"egg": {
+						"name": "Always Auth"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/proxy/java/alwaysauth/egg-always-auth.yaml"
+				},
+				{
+					"egg": {
+						"name": "Velocity"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/proxy/java/velocity/egg-velocity.yaml"
+				},
+				{
+					"egg": {
+						"name": "VIAaaS"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/proxy/java/viaaas/egg-v-i-aaa-s.yaml"
+				},
+				{
+					"egg": {
+						"name": "ViaProxy"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/proxy/java/viaproxy/egg-via-proxy.yaml"
+				},
+				{
+					"egg": {
+						"name": "Bungeecord"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/proxy/java/bungeecord/egg-bungeecord.yaml"
+				},
+				{
+					"egg": {
+						"name": "Waterfall"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/minecraft/proxy/java/waterfall/egg-waterfall.yaml"
+				}
+			]
+		},
+		{
+			"nest_type": "Chatbot",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "Aoede"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/chatbots/discord/aoede/egg-aoede.yaml"
+				},
+				{
+					"egg": {
+						"name": "ATLBot"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/chatbots/discord/atlbot/egg-a-t-l-bot.yaml"
+				},
+				{
+					"egg": {
+						"name": "Bastion"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/chatbots/discord/bastion/egg-bastion.yaml"
+				},
+				{
+					"egg": {
+						"name": "CorpBot"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/chatbots/discord/corpbot/egg-corp-bot.yaml"
+				},
+				{
+					"egg": {
+						"name": "Dynamica"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/chatbots/discord/dynamica/egg-dynamica.yaml"
+				},
+				{
+					"egg": {
+						"name": "Fragbot"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/chatbots/discord/fragbot/egg-fragbot.yaml"
+				},
+				{
+					"egg": {
+						"name": "Game Server Watcher"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/chatbots/discord/game-server-watcher/egg-game-server-watcher.yaml"
+				},
+				{
+					"egg": {
+						"name": "JMusicBot"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/chatbots/discord/jmusicbot/egg-j-music-bot.yaml"
+				},
+				{
+					"egg": {
+						"name": "Muse"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/chatbots/discord/muse/egg-muse.yaml"
+				},
+				{
+					"egg": {
+						"name": "Parkertron"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/chatbots/discord/parkertron/egg-parkertron.yaml"
+				},
+				{
+					"egg": {
+						"name": "Pixel-bot"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/chatbots/discord/pixelbot/egg-pixel-bot.yaml"
+				},
+				{
+					"egg": {
+						"name": "Red"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/chatbots/discord/redbot/egg-red.yaml"
+				},
+				{
+					"egg": {
+						"name": "Ree6"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/chatbots/discord/ree6/egg-ree6.yaml"
+				},
+				{
+					"egg": {
+						"name": "Sinusbot"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/chatbots/discord/sinusbot/egg-sinusbot.yaml"
+				},
+				{
+					"egg": {
+						"name": "Big Brother Bot"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/chatbots/other/bigbrotherbot/egg-big-brother-bot.yaml"
+				},
+				{
+					"egg": {
+						"name": "JTS3ServerMod"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/chatbots/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.yaml"
+				},
+				{
+					"egg": {
+						"name": "PhantomBot"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/chatbots/twitch/phantombot/egg-phantom-bot.yaml"
+				},
+				{
+					"egg": {
+						"name": "SogeBot"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/chatbots/twitch/sogebot/egg-soge-bot.yaml"
+				}
+			]
+		},
+		{
+			"nest_type": "Database",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "MongoDB"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/database/nosql/mongodb/egg-mongo-d-b.yaml"
+				},
+				{
+					"egg": {
+						"name": "MongoDB 6"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/database/nosql/mongodb/egg-mongo-d-b6.yaml"
+				},
+				{
+					"egg": {
+						"name": "MongoDB 7"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/database/nosql/mongodb/egg-mongo-d-b7.yaml"
+				},
+				{
+					"egg": {
+						"name": "Rethinkdb"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/database/nosql/rethinkdb/egg-rethinkdb.yaml"
+				},
+				{
+					"egg": {
+						"name": "Redis-5"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/database/redis/redis-5/egg-redis-5.yaml"
+				},
+				{
+					"egg": {
+						"name": "Redis-6"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/database/redis/redis-6/egg-redis-6.yaml"
+				},
+				{
+					"egg": {
+						"name": "Redis-7"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/database/redis/redis-7/egg-redis-7.yaml"
+				},
+				{
+					"egg": {
+						"name": "MariaDB 10.3"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/database/sql/mariadb/egg-maria-d-b103.yaml"
+				},
+				{
+					"egg": {
+						"name": "MariaDB 11.4"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/database/sql/mariadb/egg-maria-d-b114.yaml"
+				},
+				{
+					"egg": {
+						"name": "MariaDB 11.5"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/database/sql/mariadb/egg-maria-d-b115.yaml"
+				},
+				{
+					"egg": {
+						"name": "Postgres 14"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/database/sql/postgres/egg-postgres14.yaml"
+				},
+				{
+					"egg": {
+						"name": "Postgres 16"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/database/sql/postgres/egg-postgres16.yaml"
+				}
+			]
+		},
+		{
+			"nest_type": "Generic Language",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "Bun"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/generic/bun/egg-bun.yaml"
+				},
+				{
+					"egg": {
+						"name": "Generic C#"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/generic/c%23/egg-generic-c.yaml"
+				},
+				{
+					"egg": {
+						"name": "Dart generic"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/generic/dart/egg-dart-generic.yaml"
+				},
+				{
+					"egg": {
+						"name": "Deno Generic"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/generic/deno/egg-deno-generic.yaml"
+				},
+				{
+					"egg": {
+						"name": "Elixir"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/generic/elixir/egg-elixir.yaml"
+				},
+				{
+					"egg": {
+						"name": "golang generic"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/generic/golang/egg-golang-generic.yaml"
+				},
+				{
+					"egg": {
+						"name": "Java generic"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/generic/java/egg-java-generic.yaml"
+				},
+				{
+					"egg": {
+						"name": "Luvit generic"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/generic/lua/luvit/egg-luvit-generic.yaml"
+				},
+				{
+					"egg": {
+						"name": "Node.js generic"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/generic/nodejs/egg-nodejs-generic.yaml"
+				},
+				{
+					"egg": {
+						"name": "Nodemon"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/generic/nodemon/egg-nodemon.yaml"
+				},
+				{
+					"egg": {
+						"name": "Python generic"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/generic/python/egg-python-generic.yaml"
+				},
+				{
+					"egg": {
+						"name": "Rust generic"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/generic/rust/egg-rust-generic.yaml"
+				}
+			]
+		},
+		{
+			"nest_type": "Monitoring",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "Loki"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/monitoring/loki/egg-loki.yaml"
+				},
+				{
+					"egg": {
+						"name": "Prometheus"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/monitoring/prometheus/egg-prometheus.yaml"
+				}
+			]
+		},
+		{
+			"nest_type": "Software",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "5e Tools"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/software/5e-tools/egg-5e-tools.yaml"
+				},
+				{
+					"egg": {
+						"name": "Code-Server"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/software/code-server/egg-code-server.yaml"
+				},
+				{
+					"egg": {
+						"name": "Elasticsearch"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/software/elasticsearch/egg-elasticsearch.yaml"
+				},
+				{
+					"egg": {
+						"name": "Folding@Home"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/software/foldingathome/egg-folding-home.yaml"
+				},
+				{
+					"egg": {
+						"name": "Forgejo"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/software/forgejo/egg-forgejo.yaml"
+				},
+				{
+					"egg": {
+						"name": "Gitea"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/software/gitea/egg-gitea.yaml"
+				},
+				{
+					"egg": {
+						"name": "Grafana"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/software/grafana/egg-grafana.yaml"
+				},
+				{
+					"egg": {
+						"name": "LanguageTool"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/software/languagetool/egg-language-tool.yaml"
+				},
+				{
+					"egg": {
+						"name": "Lavalink"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/software/lavalink/egg-lavalink.yaml"
+				},
+				{
+					"egg": {
+						"name": "Meilisearch"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/software/meilisearch/egg-meilisearch.yaml"
+				},
+				{
+					"egg": {
+						"name": "Owncast.online"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/software/owncast/egg-owncastonline.yaml"
+				},
+				{
+					"egg": {
+						"name": "RabbitMQ"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/software/rabbitmq/egg-rabbit-m-q.yaml"
+				},
+				{
+					"egg": {
+						"name": "Rathole"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/software/rathole/egg-rathole.yaml"
+				},
+				{
+					"egg": {
+						"name": "Reposilite"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/software/reposilite/egg-reposilite.yaml"
+				},
+				{
+					"egg": {
+						"name": "Uptime Kuma"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/software/uptime-kuma/egg-uptime-kuma.yaml"
+				},
+				{
+					"egg": {
+						"name": "Wastebin"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/software/wastebin/egg-wastebin.yaml"
+				},
+				{
+					"egg": {
+						"name": "Yarr"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/software/yarr/egg-yarr.yaml"
+				}
+			]
+		},
+		{
+			"nest_type": "Storage",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "Minio S3"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/storage/minio/egg-minio-s3.yaml"
+				},
+				{
+					"egg": {
+						"name": "SFTP Storage Share"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/storage/sftp_storage_share/egg-sftp-storage-share.yaml"
+				}
+			]
+		},
+		{
+			"nest_type": "Voice",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "Mumble"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/voice/mumble/egg-mumble-server.yaml"
+				},
+				{
+					"egg": {
+						"name": "Teamspeak3 Server ARM64"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/voice/teamspeak_ARM64/egg-teamspeak3-arm64-server.yaml"
+				},
+				{
+					"egg": {
+						"name": "Teamspeak3 Manager"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/voice/teamspeak3_manager/egg-teamspeak3-manager.yaml"
+				},
+				{
+					"egg": {
+						"name": "Teamspeak3 Server"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/voice/teamspeak3/egg-teamspeak3-server.yaml"
+				},
+				{
+					"egg": {
+						"name": "Teamspeak6 Server"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/voice/teamspeak6/egg-teamspeak6-server.yaml"
+				}
+			]
+		}
+	]
+}
