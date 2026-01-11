@@ -48,5 +48,5 @@ Software that doesn't fall into the other categories
 * 5e-tools, gitea, lavalink, uptime-kuma, and more
  
 
-#### [Yolks](https://github.com/pelican-eggs/yolks)
+#### [Yolks](https://github.com/Team-Wurstwasser/yolks)
 Docker containers built to run all the eggs
