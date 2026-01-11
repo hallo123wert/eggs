@@ -1,0 +1,353 @@
+_comment: 'DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PANEL'
+meta:
+  version: PLCN_v3
+  update_url: 'https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/venice_unleashed/egg-venice-unleashed.json'
+exported_at: '2026-01-10T16:21:10+00:00'
+name: 'Venice Unleashed'
+author: red_thirten@yahoo.com
+uuid: 67fe0922-9edc-4c3f-9d79-c9517f24b60e
+description: |-
+  Venice Unleashed (VU) is a community-oriented Battlefield 3 custom server & modding platform that
+  gives you back control of your gaming experience. This Egg requires a valid VU `server.key` file,
+  and requires Battlefield 3 client files (from a legal copy of the game) to be internally mounted to
+  `/bf3`.
+image: 'data:image/png;base64,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'
+tags: {  }
+features: {  }
+docker_images:
+  'Wine Latest (Recommended)': 'ghcr.io/team-wurstwasser/yolks:wine_latest'
+  'Wine Staging': 'ghcr.io/team-wurstwasser/yolks:wine_staging'
+file_denylist: {  }
+startup_commands:
+  Default: '[ -f /bf3/bf3.exe ] || { echo "BF3 is not mounted properly! Exiting."; exit 1; }; [ -f ./vu/instance/server.key ] || { echo "Missing ''vu/instance/server.key''! Exiting."; exit 1; }; if ! compgen -G "./.wine/drive_c/ProgramData/Electronic Arts/EA Services/License/"*.dlf >/dev/null; then wine ./vu/client/vu.com -gamepath /bf3 -activate -ea_token "${EA_TOKEN}" && echo "Please restart the server (if it doesn''t do so automatically)." && sleep 5; else wine ./vu/client/vu.com -gamepath /bf3 -serverInstancePath "$(winepath -w ~/vu/instance)" -server -dedicated -headless $( [ {{AUTO_UPDATE}} = 0 ] && echo -noUpdate ) -{{SERVER_FREQUENCY}} -maxPlayers {{MAX_PLAYERS}} -listen 0.0.0.0:{{SERVER_PORT}} -mHarmonyPort {{HARMONY_PORT}} ${RCON_PORT:+-RemoteAdminPort 0.0.0.0:{{RCON_PORT}}} ${JOIN_HOST:+-joinhost {{JOIN_HOST}}} $( [ {{UNLISTED}} = 1 ] && echo -unlisted ) $( [ {{HIGH_RES_TERRAIN}} = 1 ] && echo -highResTerrain ) $( [ {{DISABLE_TERRAIN_INTERP}} = 1 ] && echo -disableTerrainInterp ) $( [ {{SKIP_CHECKSUM}} = 1 ] && echo -skipChecksum ); fi'
+config:
+  files:
+    vu/instance/Admin/Startup.txt:
+      parser: file
+      find:
+        admin.password: 'admin.password "{{server.environment.RCON_PASSWORD}}"'
+        vars.serverName: 'vars.serverName "{{server.environment.SERVER_NAME}}"'
+        vars.gamePassword: 'vars.gamePassword "{{server.environment.SERVER_PASSWORD}}"'
+  startup:
+    _comment: "'now accepting connections' with required Wine control characters"
+    done: "n\e[?25h\e[?25lo\e[?25h\e[?25lw\e[?25h\e[?25l\e[K\e[1C\e[?25h\e[?25la\e[?25h\e[?25lc\e[?25h\e[?25lc\e[?25h\e[?25le\e[?25h\e[?25lp\e[?25h\e[?25lt\e[?25h\e[?25li\e[?25h\e[?25ln\e[?25h\e[?25lg\e[?25h\e[?25l\e[K\e[1C\e[?25h\e[?25lc\e[?25h\e[?25lo\e[?25h\e[?25ln\e[?25h\e[?25ln\e[?25h\e[?25le\e[?25h\e[?25lc\e[?25h\e[?25lt\e[?25h\e[?25li\e[?25h\e[?25lo\e[?25h\e[?25ln\e[?25h\e[?25ls"
+  logs: {  }
+  stop: ^C
+scripts:
+  installation:
+    script: |-
+      #!/bin/bash
+
+      # Authors: Red-Thirten
+      # Date: 2025/08/07
+      # License: MIT License
+
+      export HOME=/mnt/server
+
+      [ ! -d $HOME ] && mkdir $HOME
+      cd $HOME
+
+      # Remove old installation if present (except for VU instance folder to keep configs)
+      [ -d .cache ] && rm -rf .cache
+      [ -d .config ] && rm -rf .config
+      [ -d .local ] && rm -rf .local
+      [ -d .wine ] && rm -rf .wine
+      [ -f .wget-hsts ] && rm .wget-hsts
+      [ -d vu/client ] && rm -rf vu/client
+
+      # Make VU required directories
+      mkdir -p vu/{client,instance}
+
+      # Validate VU download URL
+      if ! curl --silent --head --fail ${DOWNLOAD_URL} > /dev/null; then
+          echo -e "
+      The VU Server Download URL is unreachable: ${DOWNLOAD_URL}
+      "
+          exit 1
+      fi
+
+      # Download, unzip, and verify VU server files
+      cd $HOME/vu/client
+      echo -e "Downloading VU server files..."
+      curl -L ${DOWNLOAD_URL} -o ${DOWNLOAD_URL##*/}
+      echo -e "Unzipping VU server files..."
+      unzip ${DOWNLOAD_URL##*/}
+      if [ ! -f vu.com ]; then
+          echo -e "
+      Failed to download/install VU server files from: ${DOWNLOAD_URL}
+      "
+          exit 1
+      else
+          rm ${DOWNLOAD_URL##*/}
+      fi
+
+      # Create default config files if they are missing
+      cd $HOME/vu/instance
+      mkdir -p Admin/Mods
+      cd Admin
+      [ ! -f BanList.txt ] && touch BanList.txt
+      [ ! -f ModList.txt ] && touch ModList.txt
+      if [[ ! -f MapList.txt ]]; then
+          cat > MapList.txt <<EOF
+      # -------------------------------------------------------------------------------------------------------------------------
+      # This file defines the map rotation of the server. This means that it tells the server which map to load first and
+      # on which gamemode, how many rounds to run, and what's the next map to load once the game ends.
+      # 
+      # Every map is specified in a new line in the following format:
+      # MapID GamemodeID Rounds
+      # 
+      # Full list of the map and gamemode IDs:
+      # https://docs.veniceunleashed.net/hosting/maps
+      # -------------------------------------------------------------------------------------------------------------------------
+
+      MP_Subway ConquestLarge0 1
+      MP_013 TeamDeathMatch0 1
+      EOF
+      fi
+      if [[ ! -f Startup.txt ]]; then
+          cat > Startup.txt <<EOF
+      # -------------------------------------------------------------------------------------------------------------------------
+      # This file is used to configure to the server upon startup. This is done by using specific configuration variables
+      # followed by a relevant value. Each variable is specified in a new line.
+      # 
+      # Full list of configuration variables and commands:
+      # https://docs.veniceunleashed.net/hosting/commands
+      # https://github.com/dcodeIO/BattleCon/blob/master/eadocs/BF3/BF3%20PC%20Server%20Remote%20Administration%20Protocol.pdf
+      # -------------------------------------------------------------------------------------------------------------------------
+
+      # These variables are managed by the panel. Do not change or remove them!
+      admin.password "${RCON_PASSWORD}"
+      vars.serverName "${SERVER_NAME}"
+      vars.gamePassword "${SERVER_PASSWORD}"
+
+      # Add additional variables below if desired
+
+      EOF
+      fi
+
+
+      echo -e "
+      VU Successfully Installed!"
+    container: 'ghcr.io/team-wurstwasser/installers:debian'
+    entrypoint: /bin/bash
+variables:
+  -
+    sort: 4
+    name: 'Automatic Updates'
+    description: |-
+      Enables VU automatic updater. (Use with caution; there have been reports of this sometimes crashing
+      the server on startup if there is an update)
+    env_variable: AUTO_UPDATE
+    default_value: 1
+    user_viewable: true
+    user_editable: true
+    rules:
+      - boolean
+  -
+    sort: 13
+    name: '[Advanced] Disable Terrain Interpolation'
+    description: 'Disables interpolation between different terrain LODs.'
+    env_variable: DISABLE_TERRAIN_INTERP
+    default_value: 0
+    user_viewable: true
+    user_editable: true
+    rules:
+      - boolean
+  -
+    sort: 15
+    name: '[System] VU Server Download URL'
+    description: |-
+      Official URL provided by VU to download zipped server files. (Should not be changed unless you know
+      what you are doing)
+    env_variable: DOWNLOAD_URL
+    default_value: 'https://veniceunleashed.net/files/vu.zip'
+    user_viewable: false
+    user_editable: false
+    rules:
+      - required
+      - string
+  -
+    sort: 3
+    name: 'EA Auth Token'
+    description: |-
+      Can be obtained by running `vu.exe -activate -lsx` in a Command Prompt on your local Windows
+      computer that has: EA App / Origin installed, BF3 installed, VU installed and account linked to
+      EA/Origin account. (Current working directory for Command Prompt must be the VU client folder)
+    env_variable: EA_TOKEN
+    default_value: ''
+    user_viewable: true
+    user_editable: true
+    rules:
+      - required
+      - string
+  -
+    sort: 1
+    name: '[Host] Harmony Port'
+    description: 'Required port the VU server should listen for Monitored Harmony connections on.'
+    env_variable: HARMONY_PORT
+    default_value: ''
+    user_viewable: true
+    user_editable: false
+    rules:
+      - required
+      - integer
+      - 'between:1024,65536'
+  -
+    sort: 12
+    name: '[Advanced] Enable High Resolution Terrain'
+    description: 'Useful for extending maps beyond their original play area.'
+    env_variable: HIGH_RES_TERRAIN
+    default_value: 0
+    user_viewable: true
+    user_editable: true
+    rules:
+      - boolean
+  -
+    sort: 2
+    name: '[Host] Join Host'
+    description: |-
+      Specifies a hostname clients will use to connect to this server (advertised by the Zeus master
+      server). Useful for hosts utilizing DDNS, and/or for LAN clients connecting via DNS redirection
+      (only way to connect locally). Hostname should NOT include "http[s]://" prefix. Leave blank to use
+      public IP instead.
+    env_variable: JOIN_HOST
+    default_value: ''
+    user_viewable: true
+    user_editable: false
+    rules:
+      - nullable
+      - string
+  -
+    sort: 7
+    name: 'Maximum Player Count'
+    description: 'Sets the maximum players that are allowed to set with vars.maxPlayers & vars.maxSpectators combined.'
+    env_variable: MAX_PLAYERS
+    default_value: 64
+    user_viewable: true
+    user_editable: true
+    rules:
+      - required
+      - integer
+      - 'min:1'
+  -
+    sort: 10
+    name: '[RCON] RCON Password'
+    description: |-
+      Password used to authenticate with RCON. (No username is required and can be left blank when
+      connecting with a client).
+    env_variable: RCON_PASSWORD
+    default_value: ''
+    user_viewable: true
+    user_editable: true
+    rules:
+      - nullable
+      - string
+      - 'max:16'
+  -
+    sort: 9
+    name: '[RCON] RCON Port'
+    description: |-
+      Optional port used to connect to the server via RCON (recommended client is Procon). Leave blank to
+      disable RCON.
+    env_variable: RCON_PORT
+    default_value: ''
+    user_viewable: true
+    user_editable: false
+    rules:
+      - nullable
+      - integer
+      - 'between:1024,65536'
+  -
+    sort: 8
+    name: 'Server Frequency'
+    description: "'30' = 30Hz (Default) | 'high60' = 60Hz High frequency mode | 'high120' = 120Hz High frequency mode"
+    env_variable: SERVER_FREQUENCY
+    default_value: 30
+    user_viewable: true
+    user_editable: true
+    rules:
+      - required
+      - string
+      - 'in:30,high60,high120'
+  -
+    sort: 5
+    name: 'Server Name'
+    description: 'Name of the server, as it will appear in the master server list.'
+    env_variable: SERVER_NAME
+    default_value: 'My incredible VU server'
+    user_viewable: true
+    user_editable: true
+    rules:
+      - required
+      - string
+      - 'max:63'
+  -
+    sort: 6
+    name: 'Server Password'
+    description: 'Password clients must enter to join the server. Leave blank to have no password.'
+    env_variable: SERVER_PASSWORD
+    default_value: ''
+    user_viewable: true
+    user_editable: true
+    rules:
+      - nullable
+      - string
+      - 'max:16'
+  -
+    sort: 14
+    name: '[Advanced] Skip Checksum'
+    description: 'Disables level checksum validation on client connection.'
+    env_variable: SKIP_CHECKSUM
+    default_value: 0
+    user_viewable: true
+    user_editable: true
+    rules:
+      - boolean
+  -
+    sort: 11
+    name: '[Advanced] Disable Server Listing'
+    description: |-
+      Makes the server not show up in the master server list. Unlisted servers can only be joined by the
+      `connect` console command or via the `vu://join/server-id` URL scheme, which can also be added as a
+      launch argument to vu.exe to auto-join as soon as the client loads.
+    env_variable: UNLISTED
+    default_value: 0
+    user_viewable: true
+    user_editable: true
+    rules:
+      - boolean
+  -
+    sort: 18
+    name: '[System] WINEARCH'
+    description: 'Sets the Wine prefix to use a 32-bit architecture, which is required by VU. Should not be changed.'
+    env_variable: WINEARCH
+    default_value: win32
+    user_viewable: false
+    user_editable: false
+    rules:
+      - required
+      - string
+      - 'in:win32'
+  -
+    sort: 16
+    name: '[System] WINEDEBUG'
+    description: 'Sets the Wine debug level. Rarely needs to be changed.'
+    env_variable: WINEDEBUG
+    default_value: '-all'
+    user_viewable: false
+    user_editable: false
+    rules:
+      - nullable
+      - string
+  -
+    sort: 17
+    name: '[System] WINETRICKS_RUN'
+    description: 'Installs the required Visual C++ 2008 runtime via winetricks. Should not be changed.'
+    env_variable: WINETRICKS_RUN
+    default_value: vcrun2008
+    user_viewable: false
+    user_editable: false
+    rules:
+      - required
+      - string
+      - 'in:vcrun2008'

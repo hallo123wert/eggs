@@ -1,0 +1,91 @@
+_comment: 'DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PANEL'
+meta:
+  version: PLCN_v3
+  update_url: 'https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/gta/ragemp/egg-rage-mp.yaml'
+exported_at: '2026-01-11T13:12:41+00:00'
+name: Rage.MP
+author: noreply.waypointhosting@gmail.com
+uuid: 82c049db-06e3-416a-8ed3-805cc53105a9
+description: "https://rage.mp/\r\n\r\nModified to work with the latest version of RAGE:MP\r\nWill automatically install linux bridge.\r\n**This server requires 2 ports to be added for the server. the main port and the next (port+1) as\nports for the server."
+image: 'data:image/png;base64,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'
+tags: {  }
+features: {  }
+docker_images:
+  Debian: 'ghcr.io/team-wurstwasser/yolks:debian'
+file_denylist: {  }
+startup_commands:
+  Default: ./ragemp-server
+config:
+  files:
+    conf.json:
+      parser: json
+      find:
+        port: '{{server.allocations.default.port}}'
+        bind: 0.0.0.0
+        name: '{{server.environment.SERVER_NAME}}'
+        maxplayers: '{{server.environment.MAX_PLAYERS}}'
+  startup:
+    done: 'The server is ready to accept connections'
+  logs: {  }
+  stop: ^X
+scripts:
+  installation:
+    script: |-
+      #!/bin/bash
+
+      mkdir -p /mnt/server/tmp
+      cd /mnt/server
+
+      rm -rf bin/
+      rm -rf dotnet/
+      rm ragemp-server
+
+      cd /mnt/server/tmp
+      echo "Downloading rage.mp"
+      curl -sSL -o linux_x64.tar.gz https://cdn.rage.mp/updater/prerelease/server-files/linux_x64.tar.gz
+      tar -xzvf linux_x64.tar.gz
+      rm linux_x64.tar.gz
+      cd /mnt/server/tmp/ragemp-srv/
+      mv * /mnt/server
+
+      cd /mnt/server
+      chmod +x ./ragemp-server
+      rm -rf /mnt/server/tmp
+
+      if [ -e conf.json ]; then
+          echo "server config file exists"
+      else
+          echo "Downloading default rage.mp config"
+          curl https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/gta/ragemp/conf.json >> conf.json
+      fi
+
+      echo "install complete"
+
+      exit 0
+    container: 'ghcr.io/team-wurstwasser/installers:debian'
+    entrypoint: bash
+variables:
+  -
+    sort: 2
+    name: 'Max Players'
+    description: 'Maximum number of players your server will hold.  (Max 100)'
+    env_variable: MAX_PLAYERS
+    default_value: 50
+    user_viewable: true
+    user_editable: false
+    rules:
+      - required
+      - integer
+      - 'between:1,100'
+  -
+    sort: 1
+    name: 'Server Name'
+    description: 'Server name that will be displayed to the master server.  (64 Char max)'
+    env_variable: SERVER_NAME
+    default_value: 'RAGE:MP Unofficial server'
+    user_viewable: true
+    user_editable: true
+    rules:
+      - required
+      - string
+      - 'max:64'

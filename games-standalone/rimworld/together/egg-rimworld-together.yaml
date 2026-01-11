@@ -1,0 +1,153 @@
+_comment: 'DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PANEL'
+meta:
+  version: PLCN_v3
+  update_url: 'https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/rimworld/together/egg-rimworld-together.yaml'
+exported_at: '2026-01-10T17:46:10+00:00'
+name: 'Rimworld Together'
+author: josdekurk@gmail.com
+uuid: 8dd06443-3ea8-41ca-8200-24f05435f454
+description: 'A community driven multiplayer mod, for Rimworld.'
+image: 'data:image/png;base64,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'
+tags: {  }
+features: {  }
+docker_images:
+  'Dotnet 8': 'ghcr.io/team-wurstwasser/yolks:dotnet_8'
+  'Dotnet 7': 'ghcr.io/team-wurstwasser/yolks:dotnet_7'
+file_denylist: {  }
+startup_commands:
+  Default: ./GameServer
+config:
+  files:
+    Configs/ServerConfig.json:
+      parser: json
+      find:
+        IP: 0.0.0.0
+        Port: '{{server.allocations.default.port}}'
+        MaxPlayers: '{{server.environment.MAX_PLAYERS}}'
+        verboseLogs: '{{server.environment.VERBOSE}}'
+  startup:
+    done: 'Server launched'
+  logs: {  }
+  stop: quit
+scripts:
+  installation:
+    script: |-
+      #!/usr/bin/env bash
+      set -euo pipefail
+
+      # 1. Set repository variables
+      OWNER="RimWorldTogether"
+      REPO="Rimworld-Together"
+
+      # 2. Detect architecture
+      ARCH=$(uname -m)
+      case "$ARCH" in
+        x86_64)   MATCH="linux-x64" ;;
+        aarch64)  MATCH="linux-arm64" ;;
+        arm)      MATCH="linux-arm" ;;
+        *)        echo "Architecture '$ARCH' not supported"; exit 1 ;;
+      esac
+
+      # 3. Collect API data
+      if [[ -z "${VERSION:-}" ]] || [[ "${VERSION}" == "latest" ]]; then
+          # Latest release
+          JSON=$(curl -sSL "https://api.github.com/repos/$OWNER/$REPO/releases/latest")
+      else
+          # All releases (to check if the tag exists)
+          ALL=$(curl -sSL "https://api.github.com/repos/$OWNER/$REPO/releases")
+          # Checks the existence of the tag
+          TAG_EXISTS=$(echo "$ALL" | jq -r --arg V "$VERSION" '.[] | select(.tag_name==$V) | .tag_name')
+          if [[ -z "$TAG_EXISTS" ]]; then
+              echo "Tag '$VERSION' not found; using latest"
+              JSON=$(curl -sSL "https://api.github.com/repos/$OWNER/$REPO/releases/latest")
+          else
+              JSON=$(echo "$ALL" | jq -r --arg V "$VERSION" '.[] | select(.tag_name==$V)')
+          fi
+      fi
+
+      # 4. Extract correct asset download URL
+      DOWNLOAD_URL=$(echo "$JSON" \
+        | jq -r '.assets[].browser_download_url' \
+        | grep -i "$MATCH")
+
+      if [[ -z "$DOWNLOAD_URL" ]]; then
+          echo "No assets found for architecture '$MATCH'"
+          exit 1
+      fi
+
+      # 5. Prepare directory and download
+      mkdir -p /mnt/server
+      cd /mnt/server
+
+      echo "Downloading: $DOWNLOAD_URL"
+      curl -sSL -o server.zip "$DOWNLOAD_URL"
+      unzip -o server.zip
+      rm server.zip
+
+      # 6. Adjust permissions
+      chmod +x GameServer
+
+      # 7. Generate configuration if needed
+      CONFIG="/mnt/server/Configs/ServerConfig.json"
+      if [[ -f "$CONFIG" ]]; then
+          echo "Config file exists"
+      else
+          mkdir -p /mnt/server/Configs
+
+          # Use jq -n to create JSON from environment variables
+          jq -n \
+            --argjson port "${SERVER_PORT:-0}" \
+            --argjson maxPlayers "${MAX_PLAYERS:-0}" \
+            --argjson verboseLogs "${VERBOSE:-false}" \
+            '{
+              Port: $port,
+              MaxPlayers: $maxPlayers,
+              verboseLogs: $verboseLogs
+            }' > "$CONFIG"
+
+          echo "Config file created in $CONFIG"
+      fi
+
+
+      echo "-----------------------------------------"
+      echo "Installation completed..."
+      echo "-----------------------------------------"
+    container: 'ghcr.io/team-wurstwasser/installers:debian'
+    entrypoint: bash
+variables:
+  -
+    sort: 2
+    name: 'Max Players'
+    description: 'The maximum amount of players that can join. Default: 100'
+    env_variable: MAX_PLAYERS
+    default_value: 100
+    user_viewable: true
+    user_editable: true
+    rules:
+      - required
+      - numeric
+      - 'between:1,150'
+  -
+    sort: 3
+    name: Verbose
+    description: 'If the console output should be verbose or not.'
+    env_variable: VERBOSE
+    default_value: false
+    user_viewable: true
+    user_editable: true
+    rules:
+      - required
+      - string
+      - 'in:false,true'
+  -
+    sort: 1
+    name: Version
+    description: ''
+    env_variable: VERSION
+    default_value: latest
+    user_viewable: true
+    user_editable: true
+    rules:
+      - required
+      - string
+      - 'max:20'
