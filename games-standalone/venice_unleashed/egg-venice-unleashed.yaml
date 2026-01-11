@@ -1,7 +1,7 @@
 _comment: 'DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PANEL'
 meta:
   version: PLCN_v3
-  update_url: 'https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/venice_unleashed/egg-venice-unleashed.json'
+  update_url: 'https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/venice_unleashed/egg-venice-unleashed.yaml'
 exported_at: '2026-01-10T16:21:10+00:00'
 name: 'Venice Unleashed'
 author: red_thirten@yahoo.com

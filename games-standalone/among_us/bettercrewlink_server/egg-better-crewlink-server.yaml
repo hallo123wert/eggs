@@ -1,7 +1,7 @@
 _comment: 'DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PANEL'
 meta:
   version: PLCN_v3
-  update_url: 'https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/among_us/better-crewlink-server/egg-better-crewlink-serveryaml'
+  update_url: 'https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/among_us/better-crewlink-server/egg-better-crewlink-server.yaml'
 exported_at: '2026-01-10T12:25:06+00:00'
 name: 'BetterCrewlink Server'
 author: tobiornotto@gmail.com
