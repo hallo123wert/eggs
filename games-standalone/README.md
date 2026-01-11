@@ -6,7 +6,7 @@
 >
 > Looking for game servers that install with **SteamCMD**?
 >
-> See our [`games-steamcmd` repository](/games-steamcmd) for Eggs that may not be included here.
+> See our [`games-steamcmd`](/games-steamcmd) for Eggs that may not be included here.
 
 ---
 
