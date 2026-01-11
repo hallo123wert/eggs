@@ -7,379 +7,391 @@
 					"egg": {
 						"name": "SuperTuxKart"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/SuperTuxKart/egg-super-tux-kart.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/SuperTuxKart/egg-super-tux-kart.yaml"
 				},
 				{
 					"egg": {
 						"name": "BetterCrewlink Server"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/among_us/bettercrewlink_server/egg-better-crewlink-server.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/among_us/bettercrewlink_server/egg-better-crewlink-server.yaml"
 				},
 				{
 					"egg": {
 						"name": "Crewlink server"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/among_us/crewlink_server/egg-crewlink-server.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/among_us/crewlink_server/egg-crewlink-server.yaml"
 				},
 				{
 					"egg": {
 						"name": "Among Us - Impostor Server"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/among_us/impostor_server/egg-among-us--impostor-server.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/among_us/impostor_server/egg-among-us-impostor-server.yaml"
 				},
 				{
 					"egg": {
 						"name": "Archean"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/archean/egg-archean.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/archean/egg-archean.yaml"
 				},
 				{
 					"egg": {
 						"name": "BeamMP Servers"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/beamng/beammp/egg-beam-m-p-servers.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/beamng/beammp/egg-beam-m-p-servers.yaml"
 				},
 				{
 					"egg": {
 						"name": "KissMP Server"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/beamng/kissmp/egg-kiss-m-p-server.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/beamng/kissmp/egg-kiss-m-p-server.yaml"
 				},
 				{
 					"egg": {
 						"name": "ClassiCube(MGC)"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/classicube/mcgalaxy/egg-classi-cube--m-g-c.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/classicube/mcgalaxy/egg-classi-cube-mgc.yaml"
 				},
 				{
 					"egg": {
 						"name": "Clone Hero"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/clone_hero/egg-clone-hero.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/clone_hero/egg-clone-hero.yaml"
 				},
 				{
 					"egg": {
 						"name": "CS2D"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/cs2d/egg-c-s2-d.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/cs2d/egg-c-s2-d.yaml"
 				},
 				{
 					"egg": {
 						"name": "AssaultCube"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/cubeengine/assaultcube/egg-assault-cube.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/cubeengine/assaultcube/egg-assault-cube.yaml"
 				},
 				{
 					"egg": {
 						"name": "Cube 2: Sauerbraten"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/cubeengine/cube2/egg-cube2--sauerbraten.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/cubeengine/cube2/egg-cube2-sauerbraten.yaml"
 				},
 				{
 					"egg": {
 						"name": "DDRaceNetwork"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/ddracenetwork/egg-d-d-race-network.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/ddracenetwork/egg-d-d-race-network.yaml"
 				},
 				{
 					"egg": {
 						"name": "Zandronum"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/doom/zandronum/egg-zandronum.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/doom/zandronum/egg-zandronum.yaml"
 				},
 				{
 					"egg": {
 						"name": "Stay In Tarkov"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/eft/egg-stay-in-tarkov.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/eft/egg-stay-in-tarkov.yaml"
 				},
 				{
 					"egg": {
 						"name": "Clusterio"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/clusterio/egg-clusterio.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/factorio/clusterio/egg-clusterio.yaml"
 				},
 				{
 					"egg": {
 						"name": "Factorio ARM64"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/factorio/egg-factorio-a-r-m64.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/factorio/factorio/egg-factorio-arm64.yaml"
 				},
 				{
 					"egg": {
 						"name": "Factorio"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/factorio/egg-factorio.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/factorio/factorio/egg-factorio.yaml"
 				},
 				{
 					"egg": {
 						"name": "Factorio-ModUpdate"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/factorio-modupdate/egg-factorio--mod-update.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/factorio/factorio-modupdate/egg-factorio-mod-update.yaml"
 				},
 				{
 					"egg": {
 						"name": "Foundry VTT"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/foundry_vtt/egg-foundry-v-t-t.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/foundry_vtt/egg-foundry-v-t-t.yaml"
 				},
 				{
 					"egg": {
 						"name": "Tachyon"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/ftl_tachyon/egg-tachyon.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/ftl_tachyon/egg-tachyon.yaml"
 				},
 				{
 					"egg": {
 						"name": "alt:V"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/altv/egg-alt--v.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/gta/altv/egg-alt-v.yaml"
 				},
 				{
 					"egg": {
 						"name": "FiveM"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/fivem/egg-five-m.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/gta/fivem/egg-five-m.yaml"
 				},
 				{
 					"egg": {
 						"name": "Grand Theft Auto Connected"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/gtac/egg-grand-theft-auto-connected.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/gta/gtac/egg-grand-theft-auto-connected.yaml"
 				},
 				{
 					"egg": {
 						"name": "Multi Theft Auto"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/mtasa/egg-multi-theft-auto.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/gta/mtasa/egg-multi-theft-auto.yaml"
 				},
 				{
 					"egg": {
 						"name": "OpenMP"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/openmp/egg-open-m-p.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/gta/openmp/egg-open-m-p.yaml"
 				},
 				{
 					"egg": {
 						"name": "RageCOOP"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/ragecoop/egg-rage-c-o-o-p.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/gta/ragecoop/egg-rage-coop.yaml"
 				},
 				{
 					"egg": {
 						"name": "Rage.MP"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/ragemp/egg-rage--m-p.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/gta/ragemp/egg-rage-mp.yaml"
 				},
 				{
 					"egg": {
 						"name": "SA-MP"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/samp/egg-s-a--m-p.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/gta/samp/egg-samp.yaml"
 				},
 				{
 					"egg": {
 						"name": "Hogwarp"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/hogwarp/egg-hogwarp.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/hogwarp/egg-hogwarp.yaml"
 				},
 				{
 					"egg": {
 						"name": "KSP DMP"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/ksp/egg-k-s-p-d-m-p.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/ksp/egg-ksp-dmp.yaml"
 				},
 				{
 					"egg": {
 						"name": "LeagueSandbox"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/leaguesandbox/egg-league-sandbox.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/leaguesandbox/egg-league-sandbox.yaml"
 				},
 				{
 					"egg": {
 						"name": "LAC-Online Public Server"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/losangelescrimes/egg-l-a-c--online-public-server.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/losangelescrimes/egg-l-a-c--online-public-server.yaml"
 				},
 				{
 					"egg": {
 						"name": "Mindustry"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/mindustry/egg-mindustry.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/mindustry/egg-mindustry.yaml"
 				},
 				{
 					"egg": {
 						"name": "Minetest"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/minetest/egg-minetest.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/minetest/egg-minetest.yaml"
 				},
 				{
 					"egg": {
-						"name": "mohaa"
+						"name": "Mohaa"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/mohaa/egg-mohaa.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/mohaa/egg-mohaa.yaml"
 				},
 				{
 					"egg": {
 						"name": "Nazi Zombies: Portable"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/nazi_zombies_portable/egg-nazi-zombies-portable.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/nazi_zombies_portable/egg-nazi-zombies-portable.yaml"
 				},
 				{
 					"egg": {
 						"name": "Neverwinter Nights: Enhanced Edition"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/neverwinter_nights_ee/egg-neverwinter-nights--enhanced-edition.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/neverwinter_nights_ee/egg-neverwinter-nights-enhanced-edition.yaml"
 				},
 				{
 					"egg": {
 						"name": "OpenArena"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openarena/egg-open-arena.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/openarena/egg-open-arena.yaml"
 				},
 				{
 					"egg": {
 						"name": "OpenRA - Dune2000"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openra/openra_dune2000/egg-open-r-a--dune2000.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/openra/openra_dune2000/egg-open-r-a--dune2000.yaml"
 				},
 				{
 					"egg": {
 						"name": "OpenRA"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openra/openra_red_alert/egg-open-r-a.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/openra/openra_red_alert/egg-open-r-a--red-alert.yaml"
 				},
 				{
 					"egg": {
 						"name": "OpenRA - Tiberian Dawn"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openra/openra_tiberian_dawn/egg-open-r-a--tiberian-dawn.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/openra/openra_tiberian_dawn/egg-open-r-a--tiberian-dawn.yaml"
 				},
 				{
 					"egg": {
 						"name": "OpenRCT2"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openrct2/egg-open-r-c-t2.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/openrct2/egg-open-r-c-t2.yaml"
 				},
 				{
 					"egg": {
 						"name": "OpenTTD"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openttd/egg-open-t-t-d-server.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/openttd/egg-open-ttd.yaml"
 				},
 				{
 					"egg": {
 						"name": "Path Of Titans"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/path_of_titans/egg-path-of-titans.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/path_of_titans/egg-path-of-titans.yaml"
 				},
 				{
 					"egg": {
 						"name": "RedM"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/rdr/redm/egg-red-m.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/rdr/redm/egg-red-m.yaml"
 				},
 				{
 					"egg": {
 						"name": "Rimworld: Open World"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/rimworld/open_world/egg-rimworld--open-world.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/rimworld/open_world/egg-rimworld-open-world.yaml"
 				},
 				{
 					"egg": {
 						"name": "Rimworld Together"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/rimworld/together/egg-rimworld-together.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/rimworld/together/egg-rimworld-together.yaml"
 				},
 				{
 					"egg": {
 						"name": "Spacestation 14"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/spacestation_14/egg-spacestation14.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/spacestation_14/egg-spacestation14.yaml"
 				},
 				{
 					"egg": {
-						"name": "starmade"
+						"name": "Starmade"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/starmade/egg-starmade.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/starmade/egg-starmade.yaml"
 				},
 				{
 					"egg": {
 						"name": "Teeworlds"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/teeworlds/egg-teeworlds.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/teeworlds/egg-teeworlds.yaml"
 				},
 				{
 					"egg": {
 						"name": "tModloader"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/tmodloader/egg-t-modloader.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/terraria/tmodloader/egg-t-modloader.yaml"
 				},
 				{
 					"egg": {
 						"name": "tshock legacy"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/tshock/egg-tshock-legacy.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/terraria/tshock/egg-tshock-legacy.yaml"
 				},
 				{
 					"egg": {
 						"name": "tshock"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/tshock/egg-tshock.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/terraria/tshock/egg-tshock.yaml"
 				},
 				{
 					"egg": {
 						"name": "Terraria Vanilla"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/vanilla/egg-terraria-vanilla.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/terraria/vanilla/egg-terraria-vanilla.yaml"
 				},
 				{
 					"egg": {
 						"name": "The Battle for Wesnoth"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/thebattleforwesnoth/egg-the-battle-for-wesnoth.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/thebattleforwesnoth/egg-the-battle-for-wesnoth.yaml"
 				},
 				{
 					"egg": {
 						"name": "Urban Terror"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/urbanterror/egg-urban-terror.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/urbanterror/egg-urban-terror.yaml"
 				},
 				{
 					"egg": {
 						"name": "Veloren"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/veloren/egg-veloren.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/veloren/egg-veloren.yaml"
 				},
 				{
 					"egg": {
 						"name": "Venice Unleashed"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/venice_unleashed/egg-venice-unleashed.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/venice_unleashed/egg-venice-unleashed.yaml"
 				},
 				{
 					"egg": {
 						"name": "Vintage Story"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/vintage_story/egg-vintage-story.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/vintage_story/egg-vintage-story.yaml"
 				},
 				{
 					"egg": {
 						"name": "Wine Generic"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/wine/generic/egg-wine-generic.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/wine/generic/egg-wine-generic.yaml"
 				},
 				{
 					"egg": {
 						"name": "ET Legacy"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.yaml"
+				},
+				{
+					"egg": {
+						"name": "One Hour One Life"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/OneHourOneLife/egg-one-hour-one-life.yaml"
+				},
+				{
+					"egg": {
+						"name": "Trackmania (2020)"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/trackmania2020/egg-trackmania2020.yaml"
 				},
 				{
 					"egg": {
 						"name": "Xonotic"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/xonotic/egg-xonotic.json"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/xonotic/egg-xonotic.yaml"
 				}
 			]
 		},
