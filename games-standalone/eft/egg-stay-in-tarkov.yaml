@@ -1,0 +1,124 @@
+_comment: 'DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PANEL'
+meta:
+  version: PLCN_v3
+  update_url: 'https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/eft/egg-stay-in-tarkov.yaml'
+exported_at: '2026-01-11T05:02:43+00:00'
+name: 'Stay In Tarkov'
+author: dino@papertots.page
+uuid: 93912e5a-c87a-49ab-be70-5a73b3422749
+description: |-
+  The Stay in Tarkov project was born due to Battlestate Games' (BSG) reluctance to create the pure
+  PvE version of Escape from Tarkov. The project's aim is simple, create a Cooperation PvE experience
+  that retains progression.
+image: 'data:image/jpeg;base64,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'
+tags: {  }
+features: {  }
+docker_images:
+  Debian: 'ghcr.io/team-wurstwasser/yolks:debian'
+file_denylist: {  }
+startup_commands:
+  Default: ./Aki.Server.exe
+config:
+  files:
+    Aki_Data/Server/configs/http.json:
+      parser: json
+      find:
+        ip: 0.0.0.0
+        port: '{{server.allocations.default.port}}'
+  startup:
+    done: 'Server is running, do not close while playing SPT, Happy playing!!'
+  logs: {  }
+  stop: ^C
+scripts:
+  installation:
+    script: |-
+      #!/bin/bash
+      # Stay In Tarkov Server Installation Script
+
+      mkdir -p /mnt/server
+      cd /mnt/server
+
+      # Install git-lfs python3
+      apt update && apt install -yq git-lfs python3 jq tar
+
+      if [ -z "${GITHUB_USER}" ] && [ -z "${GITHUB_OAUTH_TOKEN}" ] ; then
+          echo -e "using anon api call"
+      else
+          echo -e "user and oauth token set"
+          alias curl='curl -u ${GITHUB_USER}:${GITHUB_OAUTH_TOKEN} '
+      fi
+
+      ## Get SIT coop mod release info and download links
+      LATEST_JSON=$(curl --silent "https://api.github.com/repos/${SIT_PACKAGE}/releases/latest")
+      RELEASES=$(curl --silent "https://api.github.com/repos/${SIT_PACKAGE}/releases")
+
+      if [ -z "${SIT_VERSION}" ] || [ "${SIT_VERSION}" == "latest" ]; then
+          DOWNLOAD_URL=$(echo ${LATEST_JSON} | jq .assets | jq -r .[].browser_download_url | grep -i linux)
+      else
+          VERSION_CHECK=$(echo ${RELEASES} | jq -r --arg VERSION "${SIT_VERSION}" '.[] | select(.tag_name==$VERSION) | .tag_name')
+          if [ "${SIT_VERSION}" == "${VERSION_CHECK}" ]; then
+              DOWNLOAD_URL=$(echo ${RELEASES} | jq -r --arg VERSION "${SIT_VERSION}" '.[] | select(.tag_name==$VERSION) | .assets[].browser_download_url' | grep -i linux)
+          else
+              echo -e "defaulting to latest release"
+              DOWNLOAD_URL=$(echo ${LATEST_JSON} | jq .assets | jq -r .[].browser_download_url)
+          fi
+      fi
+      wget ${DOWNLOAD_URL} -O ${SIT_NAME}
+      tar -xvzf ${SIT_NAME}
+      rm ${SIT_NAME}
+    container: 'ghcr.io/team-wurstwasser/installers:debian'
+    entrypoint: bash
+variables:
+  -
+    sort: 5
+    name: 'Github OAuth token'
+    description: 'Optional, A Github OAuth token to use to avoid API rate limit.'
+    env_variable: GITHUB_OAUTH_TOKEN
+    default_value: ''
+    user_viewable: false
+    user_editable: true
+    rules:
+      - present
+  -
+    sort: 4
+    name: 'Github Username'
+    description: 'Optional, a github username to use to avoid Github API rate limit'
+    env_variable: GITHUB_USER
+    default_value: ''
+    user_viewable: false
+    user_editable: true
+    rules:
+      - present
+  -
+    sort: 3
+    name: 'SIT Mod asset name'
+    description: "SIT mod release file's asset name."
+    env_variable: SIT_NAME
+    default_value: SITCoop.tar.gz
+    user_viewable: false
+    user_editable: false
+    rules:
+      - required
+      - string
+  -
+    sort: 2
+    name: 'SIT Mod Github Package'
+    description: "Github package for the SIT Aki server co-op mod. \r\n\r\nSITCoop: https://github.com/stayintarkov/SIT.Aki-Server-Mod"
+    env_variable: SIT_PACKAGE
+    default_value: stayintarkov/SIT.Aki-Server-Mod
+    user_viewable: false
+    user_editable: false
+    rules:
+      - required
+      - string
+  -
+    sort: 1
+    name: 'SITCoop Version'
+    description: "Version of the SIT co-op mod for the server. Use \"latest\" for latest release, or the github\nrelease/tag/hash.\r\n\r\nSITCoop: https://github.com/stayintarkov/SIT.Aki-Server-Mod"
+    env_variable: SIT_VERSION
+    default_value: latest
+    user_viewable: true
+    user_editable: true
+    rules:
+      - required
+      - string

@@ -1,0 +1,110 @@
+_comment: 'DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PANEL'
+meta:
+  version: PLCN_v3
+  update_url: 'https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/gta/ragecoop/egg-rage-coop.yaml'
+exported_at: '2026-01-11T13:15:03+00:00'
+name: RageCOOP
+author: josdekurk@gmail.com
+uuid: 2ecf268b-f6d1-4cee-8d7e-8ace6e54bef2
+description: |-
+  Drive around the interstate with your buddy, enjoy GTAs environment, make own missions and events or
+  just chill in Grove Street! 🌐
+image: 'data:image/png;base64,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'
+tags: {  }
+features: {  }
+docker_images:
+  debian: 'ghcr.io/team-wurstwasser/yolks:debian'
+file_denylist: {  }
+startup_commands:
+  Default: ./RageCoop.Server
+config:
+  files:
+    Settings.xml:
+      parser: xml
+      find:
+        Settings.Port: '{{server.allocations.default.port}}'
+  startup:
+    done: 'Listening for clients'
+  logs: {  }
+  stop: ^C
+scripts:
+  installation:
+    script: |-
+      #!/bin/bash
+
+      apt update
+      apt -y install curl wget git zip unzip jq
+
+      mkdir -p /mnt/server
+      cd /mnt/server
+
+      ## get release info and download links
+      LATEST_JSON=$(curl --silent "https://api.github.com/repos/RAGECOOP/RAGECOOP-V/releases/latest")
+      RELEASES=$(curl --silent "https://api.github.com/repos/RAGECOOP/RAGECOOP-V/releases")
+
+      if [ -z "${VERSION}" ] || [ "${VERSION}" == "latest" ]; then
+          DOWNLOAD_URL=$(echo ${LATEST_JSON} | jq .assets | jq -r .[].browser_download_url | grep -i RageCoop.Server-linux-x64.zip)
+      else
+          VERSION_CHECK=$(echo ${RELEASES} | jq -r --arg VERSION "${VERSION}" '.[] | select(.tag_name==$VERSION) | .tag_name')
+          if [ "${VERSION}" == "${VERSION_CHECK}" ]; then
+              DOWNLOAD_URL=$(echo ${RELEASES} | jq -r --arg VERSION "${VERSION}" '.[] | select(.tag_name==$VERSION) | .assets[].browser_download_url' | grep -i RageCoop.Server-linux-x64.zip)
+          else
+              echo -e "defaulting to latest release"
+              DOWNLOAD_URL=$(echo ${LATEST_JSON} | jq .assets | jq -r .[].browser_download_url | grep -i RageCoop.Server-linux-x64.zip)
+          fi
+      fi
+
+      echo ${DOWNLOAD_URL}
+      wget ${DOWNLOAD_URL} -O RageCoop.Server-linux.zip
+      RageCoop.Server-linux.zip
+
+      unzip RageCoop.Server-linux.zip
+
+      rm RageCoop.Server-linux.zip
+
+      chmod +x RageCoop.Server
+
+      cat <<EOF > Settings.xml
+      <Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      	<Port>4499</Port>
+      	<MaxPlayers>32</MaxPlayers>
+      	<MaxLatency>500</MaxLatency>
+      	<Name>RAGECOOP server</Name>
+      	<Website>https://ragecoop.online/</Website>
+      	<Description>RAGECOOP server</Description>
+      	<GameMode>FreeRoam</GameMode>
+      	<Language>English</Language>
+      	<WelcomeMessage>Welcome on this server :)</WelcomeMessage>
+      	<AnnounceSelf>false</AnnounceSelf>
+      	<MasterServer>https://masterserver.ragecoop.online/</MasterServer>
+      	<LogLevel>0</LogLevel>
+      	<NpcStreamingDistance>500</NpcStreamingDistance>
+      	<PlayerStreamingDistance>-1</PlayerStreamingDistance>
+      	<WeatherTimeSync>true</WeatherTimeSync>
+      	<AllowedUsernameChars>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890-_</AllowedUsernameChars>
+      	<UseP2P>false</UseP2P>
+      	<UseZeroTier>false</UseZeroTier>
+      	<UseVoice>false</UseVoice>
+      	<ZeroTierNetworkID>8056c2e21c000001</ZeroTierNetworkID>
+      	<AutoUpdate>false</AutoUpdate>
+      	<KickGodMode>false</KickGodMode>
+      	<KickSpamming>true</KickSpamming>
+      </Settings>
+      EOF
+
+      echo "done"
+    container: 'ghcr.io/team-wurstwasser/installers:debian'
+    entrypoint: bash
+variables:
+  -
+    sort: 1
+    name: Version
+    description: "The version you want of RAGECOOP-V\r\n\r\nExample: latest, nightly , 1.5.3"
+    env_variable: VERSION
+    default_value: latest
+    user_viewable: true
+    user_editable: true
+    rules:
+      - required
+      - string
+      - 'max:20'

@@ -1,0 +1,114 @@
+_comment: 'DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PANEL'
+meta:
+  version: PLCN_v3
+  update_url: 'https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/ftl_tachyon/egg-tachyon.yaml'
+exported_at: '2026-01-11T05:14:39+00:00'
+name: Tachyon
+author: alex.chang-lam@protonmail.com
+uuid: 364ef8b3-7c0a-4fad-b51a-44c03a4f54c8
+description: 'A multiplayer version of FTL.'
+image: 'data:image/jpeg;base64,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'
+tags: {  }
+features: {  }
+docker_images:
+  Java_11: 'ghcr.io/team-wurstwasser/yolks:java_11'
+file_denylist: {  }
+startup_commands:
+  Default: 'java -Xms128M -XX:MaxRAMPercentage=95.0 -Dterminal.jline=false -Dterminal.ansi=true -jar TachyonsCEServer.jar'
+config:
+  files:
+    config.cfg:
+      parser: file
+      find:
+        SERVER_PORT=: 'SERVER_PORT={{server.allocations.default.port}}'
+  startup:
+    done: '[Server] SERVER STARTED.'
+  logs: {  }
+  stop: /exit
+scripts:
+  installation:
+    script: |-
+      #!/bin/bash
+
+      apt update
+      apt install -y curl jq file unzip
+
+      if [ ! -d /mnt/server/ ]; then
+          mkdir -p /mnt/server/
+      fi
+
+      cd /mnt/server/
+
+      ## get release info and download links
+      LATEST_JSON=$(curl --silent "https://api.github.com/repos/Dav-Edward/TachyonsCE/releases/latest")
+      RELEASES=$(curl --silent "https://api.github.com/repos/Dav-Edward/TachyonsCE/releases")
+      MATCH=TachyonsCE
+
+      if [ "$(echo ${LATEST_JSON} | jq -r '.message')" != "Not Found" ] && [[ -z "${VERSION}" || "${VERSION}" == "latest" ]]; then
+          echo -e "grabbing latest version"
+          DOWNLOAD_URL=$(echo ${LATEST_JSON} | jq .assets | jq -r .[].browser_download_url | grep -i ${MATCH})
+      elif [ "$(echo ${LATEST_JSON} | jq -r '.message')" == "Not Found" ]; then
+          ## emergency fallback if latest isn't found
+          ## grabs the latest release even it it's a pre-release
+          echo -e "grabbing latest pre-release"
+          DOWNLOAD_URL=$(echo ${RELEASES} | jq -r '.[0].assets[].browser_download_url' | grep -i ${MATCH})
+      else
+          echo -e "grabbing version $VERSION"
+          VERSION_CHECK=$(echo ${RELEASES} | jq -r --arg VERSION "${VERSION}" '.[] | select(.tag_name==$VERSION) | .tag_name')
+          if [ "${VERSION}" == "${VERSION_CHECK}" ]; then
+              DOWNLOAD_URL=$(echo ${RELEASES} | jq -r --arg VERSION "${VERSION}" '.[] | select(.tag_name==$VERSION) | .assets[].browser_download_url' | grep -i ${MATCH})
+          else
+              echo -e "defaulting to latest release"
+              DOWNLOAD_URL=$(echo ${LATEST_JSON} | jq .assets | jq -r .[].browser_download_url)
+          fi
+      fi
+
+      if [ ! -z "${DOWNLOAD_URL}" ]; then 
+          if curl --output /dev/null --silent --head --fail ${DOWNLOAD_URL}; then
+              echo -e "link is valid. setting download link to ${DOWNLOAD_URL}"
+              DOWNLOAD_LINK=${DOWNLOAD_URL}
+          else        
+              echo -e "link is invalid closing out"
+              exit 2
+          fi
+      fi
+
+      curl --progress-bar -sSL -o ${DOWNLOAD_URL##*/} ${DOWNLOAD_URL}
+
+      FILETYPE=$(file -F ',' ${DOWNLOAD_LINK##*/} | cut -d',' -f2 | cut -d' ' -f2)
+      if [ "$FILETYPE" == "gzip" ]; then
+          tar xzvf ${DOWNLOAD_LINK##*/}
+      elif [ "$FILETYPE" == "Zip" ]; then
+          unzip -o ${DOWNLOAD_LINK##*/}
+      elif [ "$FILETYPE" == "XZ" ]; then
+          tar xvf ${DOWNLOAD_LINK##*/}
+      else
+          echo -e "unknown filetype. Exeting"
+          exit 2 
+      fi
+
+      #move all server files out
+      mv ./server/* ./
+
+      #remove zip and unneeded client-side and dev files
+      rm -rf server/ JRE/ client/ *.zip
+
+      ## install end
+      echo "-----------------------------------------"
+      echo "Installation completed..."
+      echo "-----------------------------------------"
+    container: 'ghcr.io/team-wurstwasser/installers:debian'
+    entrypoint: bash
+variables:
+  -
+    sort: 1
+    name: Version
+    description: ''
+    env_variable: VERSION
+    default_value: latest
+    user_viewable: true
+    user_editable: true
+    rules:
+      - required
+      - string
+      - 'max:32'

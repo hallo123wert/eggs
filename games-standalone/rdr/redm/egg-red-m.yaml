@@ -1,0 +1,174 @@
+_comment: 'DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PANEL'
+meta:
+  version: PLCN_v3
+  update_url: 'https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/rdr/redm/egg-red-m.yaml'
+exported_at: '2026-01-10T17:52:01+00:00'
+name: RedM
+author: parker@parkervcp.com
+uuid: 6b9360e9-d24b-4d9b-bb58-ab05ca166cd4
+description: 'A new RedM egg for the latest builds due to recent changes in RedM'
+image: 'data:image/webp;base64,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'
+tags: {  }
+features: {  }
+docker_images:
+  Debian: 'ghcr.io/team-wurstwasser/yolks:debian'
+file_denylist: {  }
+startup_commands:
+  Default: '$(pwd)/alpine/opt/cfx-server/ld-musl-x86_64.so.1 --library-path "$(pwd)/alpine/usr/lib/v8/:$(pwd)/alpine/lib/:$(pwd)/alpine/usr/lib/" -- $(pwd)/alpine/opt/cfx-server/FXServer +set citizen_dir $(pwd)/alpine/opt/cfx-server/citizen/ +set sv_licenseKey {{CFX_LICENSE}} +set steam_webApiKey {{STEAM_WEBAPIKEY}} +set sv_maxplayers {{MAX_PLAYERS}} +exec server.cfg +set gamename rdr3'
+config:
+  files:
+    server.cfg:
+      parser: file
+      find:
+        endpoint_add_tcp: 'endpoint_add_tcp "0.0.0.0:{{server.allocations.default.port}}"'
+        endpoint_add_udp: 'endpoint_add_udp "0.0.0.0:{{server.allocations.default.port}}"'
+        sv_hostname: 'sv_hostname "{{server.environment.SERVER_HOSTNAME}}"'
+        sv_maxclients: 'sv_maxclients {{server.environment.MAX_PLAYERS}}'
+  startup:
+    done: 'succeeded. Welcome!'
+  logs: {  }
+  stop: ^C
+scripts:
+  installation:
+    script: |-
+      #!/bin/ash
+      # CFx Installation Script
+      #
+      # Server Files: /mnt/server
+      apt update -y
+      apt install -y tar xz-utils file jq
+
+      mkdir -p /mnt/server/resources /mnt/server/logs/
+
+      cd /mnt/server
+
+      echo "updating citizenfx resource files"
+      git clone https://github.com/citizenfx/cfx-server-data.git /tmp
+      cp -Rf /tmp/resources/* resources/
+
+      RELEASE_PAGE=$(curl -sSL https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/)
+      CHANGELOGS_PAGE=$(curl -sSL https://changelogs-live.fivem.net/api/changelog/versions/linux/server)
+
+      if [[ "${CFX_VERSION}" == "recommended" ]] || [[ -z ${CFX_VERSION} ]]; then
+        DOWNLOAD_LINK=$(echo $CHANGELOGS_PAGE | jq -r '.recommended_download')
+      elif [[ "${CFX_VERSION}" == "latest" ]]; then
+        DOWNLOAD_LINK=$(echo $CHANGELOGS_PAGE | jq -r '.latest_download')
+      else
+        VERSION_LINK=$(echo -e "${RELEASE_PAGE}" | grep -Eo '".*/*.tar.xz"' | grep -Po '(?<=href=")[^"]*' | sed 's/\"//g' | sed 's/\.\///1' | grep ${CFX_VERSION})
+        if [[ "${VERSION_LINK}" == "" ]]; then
+          echo -e "defaulting to recommedned as the version requested was invalid."
+          DOWNLOAD_LINK=$(echo $CHANGELOGS_PAGE | jq -r '.recommended_download')
+        else
+          DOWNLOAD_LINK=$(echo https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/${VERSION_LINK})
+        fi
+      fi
+
+      if [ ! -z "${DOWNLOAD_URL}" ]; then
+        if curl --output /dev/null --silent --head --fail ${DOWNLOAD_URL}; then
+          echo -e "link is valid. setting download link to ${DOWNLOAD_URL}"
+          DOWNLOAD_LINK=${DOWNLOAD_URL}
+        else
+          echo -e "link is invalid closing out"
+          exit 2
+        fi
+      fi
+
+      echo -e "Running curl -sSL ${DOWNLOAD_LINK} -o ${DOWNLOAD_LINK##*/}"
+
+      curl -sSL ${DOWNLOAD_LINK} -o ${DOWNLOAD_LINK##*/}
+
+      echo "Extracting fivem files"
+
+      FILETYPE=$(file -F ',' ${DOWNLOAD_LINK##*/} | cut -d',' -f2 | cut -d' ' -f2)
+      if [ "$FILETYPE" == "gzip" ]; then
+        tar xzvf ${DOWNLOAD_LINK##*/}
+      elif [ "$FILETYPE" == "Zip" ]; then
+        unzip ${DOWNLOAD_LINK##*/}
+      elif [ "$FILETYPE" == "XZ" ]; then
+        tar xvf ${DOWNLOAD_LINK##*/}
+      else
+        echo -e "unknown filetype. Exiting"
+        exit 2
+      fi
+
+      rm -rf ${DOWNLOAD_LINK##*/} run.sh
+
+      if [ -e server.cfg ]; then
+        echo "server config file exists"
+      else
+        echo "Downloading default fivem config"
+        curl https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/rdr/redm/server.cfg >>server.cfg
+      fi
+
+      echo "install complete"
+    container: 'ghcr.io/team-wurstwasser/installers:debian'
+    entrypoint: bash
+variables:
+  -
+    sort: 1
+    name: 'CFX license'
+    description: 'Required to start the service. Get your keys at https://keymaster.fivem.net/'
+    env_variable: CFX_LICENSE
+    default_value: ''
+    user_viewable: true
+    user_editable: true
+    rules:
+      - required
+      - string
+  -
+    sort: 4
+    name: 'CFX version'
+    description: "The CFX Server version that is to be installed. Invalid versions will default to latest.\r\n\r\nan example is `1383-e5ea040353ce1b8bc86e37982bf5d888938e3096`\r\n\r\nYou can the latest version from here -\nhttps://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/"
+    env_variable: CFX_VERSION
+    default_value: latest
+    user_viewable: true
+    user_editable: true
+    rules:
+      - required
+      - string
+      - 'max:50'
+  -
+    sort: 5
+    name: 'Download Link'
+    description: "This is the link to download redm from. This is only used in the install script.\r\n\r\nThe file you link to needs to be an fx.tar.zx file.\r\n\r\nExample:\r\nhttps://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/1626-8c06e8bc3ed7e6690c6c2d9e0b90e29df65b3ea6/fx.tar.xz"
+    env_variable: DOWNLOAD_URL
+    default_value: ''
+    user_viewable: false
+    user_editable: false
+    rules:
+      - string
+      - nullable
+  -
+    sort: 2
+    name: 'Max Players'
+    description: 'Set the fivem max play count'
+    env_variable: MAX_PLAYERS
+    default_value: 32
+    user_viewable: true
+    user_editable: false
+    rules:
+      - required
+      - integer
+      - 'between:1,32'
+  -
+    sort: 3
+    name: 'Server Hostname'
+    description: 'The name that shows up in the server browser'
+    env_variable: SERVER_HOSTNAME
+    default_value: 'My new FXServer!'
+    user_viewable: true
+    user_editable: true
+    rules:
+      - required
+      - string
+  -
+    sort: 6
+    name: 'Steam Web Api Key'
+    description: "Use your Steam WebApiKey or set to 'none'. Get your key at https://steamcommunity.com/dev/apikey/"
+    env_variable: STEAM_WEBAPIKEY
+    default_value: none
+    user_viewable: true
+    user_editable: true
+    rules:
+      - required
+      - string

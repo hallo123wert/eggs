@@ -1,0 +1,106 @@
+_comment: 'DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PANEL'
+meta:
+  version: PLCN_v3
+  update_url: 'https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/nazi_zombies_portable/egg-nazi-zombies-portable.yaml'
+exported_at: '2026-01-10T19:04:34+00:00'
+name: 'Nazi Zombies: Portable'
+author: jordanadamsbusiness@outlook.com
+uuid: 8569960f-865d-40ad-bdb0-aff8368f1e5a
+description: |-
+  NZ:P (Nazi Zombies: Portable) is based off of the FTEQW (Fore Thought Engine Quake World). This egg
+  is specifically made for use with NZ:P (just downloads assets and QuakeC from NZ:P repositories) but
+  there is nothing stopping you from using it as a general FTEQW egg given the NZ:P fork of FTEQW only
+  added fog to the client (and added SDL which caused issues with arguments being eaten preventing
+  dedicated flag from being read) which is why upstream FTEQW is used.
+image: 'data:image/jpeg;base64,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'
+tags: {  }
+features: {  }
+docker_images:
+  Ubuntu: 'ghcr.io/team-wurstwasser/yolks:ubuntu'
+file_denylist: {  }
+startup_commands:
+  Default: './fteqw-sv64 -dedicated +sv_port {{SERVER_PORT}} +sv_port_tcp {{SERVER_PORT}} +com_protocolname {{PROTOCOL}} +sv_mintic {{TICKRATE}} +map {{MAP}} {{GAME_ARGS}}'
+config:
+  files: {  }
+  startup:
+    done: '======== Nazi Zombies Portable Initialized ========'
+  logs: {  }
+  stop: quit
+scripts:
+  installation:
+    script: |-
+      #!/bin/ash
+      # Nazi Zombies: Portable (NZ:P) Installation Script
+      #
+      # Server Files: /mnt/server
+
+      # FTEQW (Engine)
+      wget https://www.fteqw.org/dl/fteqw_linux64.zip
+      unzip -o fteqw_linux64.zip -d /mnt/server
+
+      # Assets
+      ASSETS_LATEST_VERSION=$(curl -L -s -H 'Accept: application/json' https://github.com/nzp-team/assets/releases/latest | jq -r '.tag_name')
+      wget "https://github.com/nzp-team/assets/releases/download/$ASSETS_LATEST_VERSION/pc-nzp-assets.zip"
+      unzip -o pc-nzp-assets.zip -d /mnt/server
+
+      # QuakeC
+      QUAKEC_LATEST_VERSION=$(curl -L -s -H 'Accept: application/json' https://github.com/nzp-team/quakec/releases/latest | jq -r '.tag_name')
+      wget "https://github.com/nzp-team/quakec/releases/download/$QUAKEC_LATEST_VERSION/fte-nzp-qc.zip"
+      wget "https://github.com/nzp-team/quakec/releases/download/$QUAKEC_LATEST_VERSION/standard-nzp-qc.zip"
+      unzip -o fte-nzp-qc.zip -d /mnt/server/nzp
+      unzip -o standard-nzp-qc.zip -d /mnt/server/nzp
+    container: 'ghcr.io/team-wurstwasser/installers:alpine'
+    entrypoint: ash
+variables:
+  -
+    sort: 4
+    name: 'Additional Game Arguments'
+    description: '`+cvar value` is the format for changing the cvars'
+    env_variable: GAME_ARGS
+    default_value: ''
+    user_viewable: true
+    user_editable: true
+    rules:
+      - 'max:200'
+  -
+    sort: 3
+    name: Map
+    description: |-
+      The map to load, you can find a list via `listmaps`, default map is ndu otherwise known as "Nacht
+      der Untoten"
+    env_variable: MAP
+    default_value: ndu
+    user_viewable: true
+    user_editable: true
+    rules:
+      - required
+      - string
+      - 'max:20'
+  -
+    sort: 1
+    name: Protocol
+    description: "NZ:P Native Clients - `NZP-REBOOT`.\r\nNZ:P Web Clients - `NZP-REBOOT-WEB`.\r\n\r\nHit your \"`/~\" key on your keyboard, this will open console, then you will type `connect ip:port`\nfor native clients, for web clients you would type `connect ws://ip:port`. In addition, you MUST be\non the HTTP version of the website you are playing the web client on, otherwise the browser will\nblock the request"
+    env_variable: PROTOCOL
+    default_value: NZP-REBOOT
+    user_viewable: true
+    user_editable: true
+    rules:
+      - required
+      - string
+      - 'max:50'
+  -
+    sort: 2
+    name: Tickrate
+    description: |-
+      Think of this like fps, the default value is 1 frame per 45 ms (0.045 seconds) which is ~22 fps, 30
+      fps is ~33.3 ms, 60 fps is ~16.6ms, the reason the tickrate is low is due to zombies being bandwidth
+      heavy (especially in the higher rounds), take caution when changing this, but if you up the
+      tickrate, it may fix physics bugs like zombies getting stuck on terrain.
+    env_variable: TICKRATE
+    default_value: 0.045
+    user_viewable: true
+    user_editable: true
+    rules:
+      - required
+      - numeric
+      - 'max:20'

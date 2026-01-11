@@ -1,0 +1,49 @@
+_comment: 'DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PANEL'
+meta:
+  version: PLCN_v3
+  update_url: 'https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/leaguesandbox/egg-league-sandbox.yaml'
+exported_at: '2026-01-10T23:59:15+00:00'
+name: LeagueSandbox
+author: domi@imagine.team
+uuid: 3eeeca1c-51ef-427e-8227-cfec30f49c78
+description: 'A simple egg to run LeagueSandbox server in Pelican'
+image: null
+tags: {  }
+features: {  }
+docker_images:
+  Dotnet_6: 'ghcr.io/team-wurstwasser/yolks:dotnet_6'
+file_denylist: {  }
+startup_commands:
+  Default: './GameServerConsole --port {{SERVER_PORT}}'
+config:
+  files: {  }
+  startup:
+    done: 'Game is ready.'
+  logs: {  }
+  stop: ^C
+scripts:
+  installation:
+    script: |-
+      #!/bin/bash
+
+      apt update
+      apt install -y zip unzip jq curl wget git
+
+      mkdir -p /mnt/server
+      cd /mnt/server
+
+      git clone https://github.com/LeagueSandbox/GameServer.git
+      rm .git -rf
+
+      cd GameServer/
+
+      git submodule init
+      git submodule update
+
+      dotnet build .
+      cp -r GameServerConsole/bin/Debug/net6.0/* /mnt/server/
+      cp -r Content /mnt/server/Content
+      echo "done"
+    container: 'mcr.microsoft.com/dotnet/sdk:6.0'
+    entrypoint: bash
+variables: {  }

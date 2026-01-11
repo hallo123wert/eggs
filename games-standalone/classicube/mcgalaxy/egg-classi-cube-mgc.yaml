@@ -1,0 +1,117 @@
+_comment: 'DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PANEL'
+meta:
+  version: PLCN_v3
+  update_url: 'https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/classicube/mcgalaxy/egg-classi-cube-mgc.yaml'
+exported_at: '2026-01-10T17:26:50+00:00'
+name: ClassiCube(MGC)
+author: panel@qoutsy.33mail.com
+uuid: d12bf043-5835-45eb-9c35-fd7bc7e51561
+description: 'Debian based MCGalaxy Egg.'
+image: 'data:image/png;base64,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'
+tags: {  }
+features: {  }
+docker_images:
+  Mono_latest: 'ghcr.io/team-wurstwasser/yolks:mono_latest'
+file_denylist: {  }
+startup_commands:
+  Default: 'mono MCGalaxyCLI.exe'
+config:
+  files:
+    /properties/server.properties:
+      parser: properties
+      find:
+        server-name: '{{server.environment.HOSTNAME}}'
+        motd: '{{server.environment.MOTD}}'
+        public: true
+        port: '{{server.allocations.default.port}}'
+  startup:
+    done: 'Finished setting up server'
+  logs: {  }
+  stop: '/shutdown 3 SIGTERM Server shutting down...'
+scripts:
+  installation:
+    script: |-
+      #!/bin/bash
+
+      MATCH=mcgalaxy_
+      mkdir -p /mnt/server
+      cd /mnt/server
+
+      if [ -z "${GITHUB_USER}" ] && [ -z "${GITHUB_OAUTH_TOKEN}" ] ; then
+          echo -e "using anon api call"
+      else
+          echo -e "user and oauth token set"
+          alias curl='curl -u ${GITHUB_USER}:${GITHUB_OAUTH_TOKEN} '
+      fi
+
+      ## get release info and download links
+      LATEST_JSON=$(curl --silent "https://api.github.com/repos/UnknownShadow200/MCGalaxy/releases/latest")
+      RELEASES=$(curl --silent "https://api.github.com/repos/UnknownShadow200/MCGalaxy/releases")
+
+      if [ -z "${VERSION}" ] || [ "${VERSION}" == "latest" ]; then
+          DOWNLOAD_URL=$(echo ${LATEST_JSON} | jq .assets | jq -r .[].browser_download_url | grep -i ${MATCH})
+      else
+          VERSION_CHECK=$(echo ${RELEASES} | jq -r --arg VERSION "${VERSION}" '.[] | select(.tag_name==$VERSION) | .tag_name')
+          if [ "${VERSION}" == "${VERSION_CHECK}" ]; then
+              DOWNLOAD_URL=$(echo ${RELEASES} | jq -r --arg VERSION "${VERSION}" '.[] | select(.tag_name==$VERSION) | .assets[].browser_download_url' | grep -i ${MATCH})
+          else
+              echo -e "defaulting to latest release"
+              DOWNLOAD_URL=$(echo ${LATEST_JSON} | jq .assets | jq -r .[].browser_download_url)
+          fi
+      fi
+
+
+      echo -e "Downloading ClassiCube version ${VERSION}"
+      echo -e "Download URL is ${DOWNLOAD_URL}"
+
+      curl -ssL -o mcgalaxy.zip ${DOWNLOAD_URL}
+
+      unzip -j mcgalaxy.zip
+      rm mcgalaxy.zip
+      chmod +X *.dll *.exe
+
+      ## install end
+      echo "-----------------------------------------"
+      echo "Installation completed..."
+      echo "-----------------------------------------"
+    container: 'ghcr.io/team-wurstwasser/installers:debian'
+    entrypoint: bash
+variables:
+  -
+    sort: 2
+    name: MOTD
+    description: 'Specify the message of the day'
+    env_variable: MOTD
+    default_value: 'Welcome to the server'
+    user_viewable: true
+    user_editable: true
+    rules:
+      - required
+      - string
+      - 'max:64'
+  -
+    sort: 3
+    name: 'Server Name'
+    description: 'Specify the server name'
+    env_variable: SERVER_HOSTNAME
+    default_value: 'Pelican Server'
+    user_viewable: true
+    user_editable: true
+    rules:
+      - required
+      - string
+      - 'max:30'
+  -
+    sort: 1
+    name: 'Install Version'
+    description: |-
+      Specify the version to install from https://github.com/UnknownShadow200/MCGalaxy/releases. Leave
+      latest to install the latest version.
+    env_variable: VERSION
+    default_value: latest
+    user_viewable: true
+    user_editable: true
+    rules:
+      - required
+      - string
+      - 'max:20'
