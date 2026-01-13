@@ -131,6 +131,12 @@
 				},
 				{
 					"egg": {
+						"name": "Hytale"
+					},
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/hytale/egg-hytale.yaml"
+				},				
+				{
+					"egg": {
 						"name": "alt:V"
 					},
 					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/games-standalone/gta/altv/egg-alt-v.yaml"
