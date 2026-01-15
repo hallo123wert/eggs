@@ -17,11 +17,11 @@ docker_images:
   Hytale: 'ghcr.io/team-wurstwasser/games:hytale'
 file_denylist: {  }
 startup_commands:
-  Default: 'java -Xms128M -XX:MaxRAMPercentage=95.0 -Dterminal.jline=false -Dterminal.ansi=true -jar HytaleServer.jar --assets {{ASSETS_PATH}} --backup --backup-dir {{BACKUP_DIR}} --backup-frequency {{BACKUP_FREQUENCY}}'
+  Default: 'java -Xms128M -XX:MaxRAMPercentage=95.0 -Dterminal.jline=false -Dterminal.ansi=true -jar HytaleServer.jar --bind 0.0.0.0:{{SERVER_PORT}} --assets {{ASSETS_PATH}} --backup --backup-dir {{BACKUP_DIR}} --backup-frequency {{BACKUP_FREQUENCY}}'
 config:
   files: {  }
   startup:
-    done: 'Successfully created game session'
+    done: 'Hytale Server Booted!'
   logs: {  }
   stop: stop
 scripts:
@@ -31,6 +31,7 @@ scripts:
       unzip  hytale-downloader.zip
       mv hytale-downloader-linux-amd64 /mnt/server/hytale-downloader -f
       mkdir -p /mnt/server/Backups
+      rm -r hytale-downloader.zip
     container: 'ghcr.io/team-wurstwasser/installers:debian'
     entrypoint: bash
 variables:
