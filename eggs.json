@@ -1816,7 +1816,7 @@
 					"egg": {
 						"name": "Teamspeak3 Server ARM64"
 					},
-					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/voice/teamspeak_ARM64/egg-teamspeak3-arm64-server.yaml"
+					"download_url": "https://raw.githubusercontent.com/Team-Wurstwasser/eggs/refs/heads/main/voice/teamspeak3/egg-teamspeak3-arm64-server.yaml"
 				},
 				{
 					"egg": {
